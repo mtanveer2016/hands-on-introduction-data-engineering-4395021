@@ -1,0 +1,16 @@
+[2026-11-05T08:50:12.662+0000] {taskinstance.py:1103} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: challenge_dag.load_task manual__2026-11-05T08:50:03.604664+00:00 [queued]>
+[2026-11-05T08:50:12.669+0000] {taskinstance.py:1103} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: challenge_dag.load_task manual__2026-11-05T08:50:03.604664+00:00 [queued]>
+[2026-11-05T08:50:12.669+0000] {taskinstance.py:1308} INFO - Starting attempt 1 of 1
+[2026-11-05T08:50:12.694+0000] {taskinstance.py:1327} INFO - Executing <Task(BashOperator): load_task> on 2026-11-05 08:50:03.604664+00:00
+[2026-11-05T08:50:12.704+0000] {standard_task_runner.py:57} INFO - Started process 55490 to run task
+[2026-11-05T08:50:12.707+0000] {standard_task_runner.py:84} INFO - Running: ['airflow', 'tasks', 'run', 'challenge_dag', 'load_task', 'manual__2026-11-05T08:50:03.604664+00:00', '--job-id', '26', '--raw', '--subdir', 'DAGS_FOLDER/challenge_dag.py', '--cfg-path', '/tmp/tmp8zgf6e42']
+[2026-11-05T08:50:12.708+0000] {standard_task_runner.py:85} INFO - Job 26: Subtask load_task
+[2026-11-05T08:50:12.750+0000] {task_command.py:410} INFO - Running <TaskInstance: challenge_dag.load_task manual__2026-11-05T08:50:03.604664+00:00 [running]> on host codespaces-742126
+[2026-11-05T08:50:12.794+0000] {taskinstance.py:1545} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='airflow' AIRFLOW_CTX_DAG_ID='challenge_dag' AIRFLOW_CTX_TASK_ID='load_task' AIRFLOW_CTX_EXECUTION_DATE='2026-11-05T08:50:03.604664+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2026-11-05T08:50:03.604664+00:00'
+[2026-11-05T08:50:12.795+0000] {subprocess.py:63} INFO - Tmp dir root location: /tmp
+[2026-11-05T08:50:12.796+0000] {subprocess.py:75} INFO - Running command: ['/usr/bin/bash', '-c', 'echo -e ".separator ","\n.import --skip 1 /workspaces/hands-on-introduction-data-engineering-4395021/lab/challenge/challenge-transform-data.csv sp_500_sector_count" | sqlite3 /workspaces/hands-on-introduction-data-engineering-4395021/lab/challenge/challenge-load-db.db']
+[2026-11-05T08:50:12.804+0000] {subprocess.py:86} INFO - Output:
+[2026-11-05T08:50:12.816+0000] {subprocess.py:97} INFO - Command exited with return code 0
+[2026-11-05T08:50:12.834+0000] {taskinstance.py:1345} INFO - Marking task as SUCCESS. dag_id=challenge_dag, task_id=load_task, execution_date=20261105T085003, start_date=20261105T085012, end_date=20261105T085012
+[2026-11-05T08:50:12.879+0000] {local_task_job_runner.py:225} INFO - Task exited with return code 0
+[2026-11-05T08:50:12.888+0000] {taskinstance.py:2653} INFO - 0 downstream tasks scheduled from follow-on schedule check

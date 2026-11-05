@@ -1,0 +1,651 @@
+[2026-11-02T09:36:18.208+0000] {processor.py:157} INFO - Started process (PID=10166) to work on /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T09:36:18.210+0000] {processor.py:826} INFO - Processing file /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2026-11-02T09:36:18.211+0000] {logging_mixin.py:150} INFO - [2026-11-02T09:36:18.210+0000] {dagbag.py:541} INFO - Filling up the DagBag from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T09:36:18.220+0000] {processor.py:836} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T09:36:18.235+0000] {logging_mixin.py:150} INFO - [2026-11-02T09:36:18.235+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2026-11-02T09:36:18.254+0000] {logging_mixin.py:150} INFO - [2026-11-02T09:36:18.254+0000] {dag.py:3504} INFO - Setting next_dagrun for example_sla_dag to 2026-11-02T09:34:00+00:00, run_after=2026-11-02T09:36:00+00:00
+[2026-11-02T09:36:18.274+0000] {processor.py:179} INFO - Processing /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py took 0.068 seconds
+[2026-11-02T09:36:59.789+0000] {processor.py:157} INFO - Started process (PID=10441) to work on /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T09:36:59.790+0000] {processor.py:826} INFO - Processing file /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2026-11-02T09:36:59.791+0000] {logging_mixin.py:150} INFO - [2026-11-02T09:36:59.791+0000] {dagbag.py:541} INFO - Filling up the DagBag from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T09:36:59.798+0000] {processor.py:836} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T09:36:59.811+0000] {logging_mixin.py:150} INFO - [2026-11-02T09:36:59.811+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2026-11-02T09:36:59.829+0000] {logging_mixin.py:150} INFO - [2026-11-02T09:36:59.829+0000] {dag.py:3504} INFO - Setting next_dagrun for example_sla_dag to 2026-11-02T09:34:00+00:00, run_after=2026-11-02T09:36:00+00:00
+[2026-11-02T09:36:59.847+0000] {processor.py:179} INFO - Processing /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py took 0.060 seconds
+[2026-11-02T09:37:44.312+0000] {processor.py:157} INFO - Started process (PID=10805) to work on /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T09:37:44.313+0000] {processor.py:826} INFO - Processing file /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2026-11-02T09:37:44.313+0000] {logging_mixin.py:150} INFO - [2026-11-02T09:37:44.313+0000] {dagbag.py:541} INFO - Filling up the DagBag from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T09:37:44.320+0000] {processor.py:836} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T09:37:44.333+0000] {logging_mixin.py:150} INFO - [2026-11-02T09:37:44.333+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2026-11-02T09:37:44.351+0000] {logging_mixin.py:150} INFO - [2026-11-02T09:37:44.351+0000] {dag.py:3504} INFO - Setting next_dagrun for example_sla_dag to 2026-11-02T09:34:00+00:00, run_after=2026-11-02T09:36:00+00:00
+[2026-11-02T09:37:44.369+0000] {processor.py:179} INFO - Processing /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py took 0.060 seconds
+[2026-11-02T09:38:28.437+0000] {processor.py:157} INFO - Started process (PID=11106) to work on /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T09:38:28.439+0000] {processor.py:826} INFO - Processing file /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2026-11-02T09:38:28.440+0000] {logging_mixin.py:150} INFO - [2026-11-02T09:38:28.440+0000] {dagbag.py:541} INFO - Filling up the DagBag from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T09:38:28.448+0000] {processor.py:836} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T09:38:28.462+0000] {logging_mixin.py:150} INFO - [2026-11-02T09:38:28.462+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2026-11-02T09:38:28.481+0000] {logging_mixin.py:150} INFO - [2026-11-02T09:38:28.480+0000] {dag.py:3504} INFO - Setting next_dagrun for example_sla_dag to 2026-11-02T09:36:00+00:00, run_after=2026-11-02T09:38:00+00:00
+[2026-11-02T09:38:28.498+0000] {processor.py:179} INFO - Processing /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py took 0.063 seconds
+[2026-11-02T09:39:12.943+0000] {processor.py:157} INFO - Started process (PID=11400) to work on /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T09:39:12.944+0000] {processor.py:826} INFO - Processing file /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2026-11-02T09:39:12.944+0000] {logging_mixin.py:150} INFO - [2026-11-02T09:39:12.944+0000] {dagbag.py:541} INFO - Filling up the DagBag from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T09:39:12.951+0000] {processor.py:836} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T09:39:12.964+0000] {logging_mixin.py:150} INFO - [2026-11-02T09:39:12.964+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2026-11-02T09:39:12.981+0000] {logging_mixin.py:150} INFO - [2026-11-02T09:39:12.981+0000] {dag.py:3504} INFO - Setting next_dagrun for example_sla_dag to 2026-11-02T09:36:00+00:00, run_after=2026-11-02T09:38:00+00:00
+[2026-11-02T09:39:13.000+0000] {processor.py:179} INFO - Processing /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py took 0.060 seconds
+[2026-11-02T09:39:54.560+0000] {processor.py:157} INFO - Started process (PID=11702) to work on /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T09:39:54.561+0000] {processor.py:826} INFO - Processing file /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2026-11-02T09:39:54.562+0000] {logging_mixin.py:150} INFO - [2026-11-02T09:39:54.562+0000] {dagbag.py:541} INFO - Filling up the DagBag from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T09:39:54.569+0000] {processor.py:836} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T09:39:54.582+0000] {logging_mixin.py:150} INFO - [2026-11-02T09:39:54.582+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2026-11-02T09:39:54.600+0000] {logging_mixin.py:150} INFO - [2026-11-02T09:39:54.600+0000] {dag.py:3504} INFO - Setting next_dagrun for example_sla_dag to 2026-11-02T09:36:00+00:00, run_after=2026-11-02T09:38:00+00:00
+[2026-11-02T09:39:54.621+0000] {processor.py:179} INFO - Processing /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py took 0.063 seconds
+[2026-11-02T09:40:40.534+0000] {processor.py:157} INFO - Started process (PID=12015) to work on /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T09:40:40.535+0000] {processor.py:826} INFO - Processing file /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2026-11-02T09:40:40.535+0000] {logging_mixin.py:150} INFO - [2026-11-02T09:40:40.535+0000] {dagbag.py:541} INFO - Filling up the DagBag from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T09:40:40.542+0000] {processor.py:836} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T09:40:40.555+0000] {logging_mixin.py:150} INFO - [2026-11-02T09:40:40.555+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2026-11-02T09:40:40.571+0000] {logging_mixin.py:150} INFO - [2026-11-02T09:40:40.571+0000] {dag.py:3504} INFO - Setting next_dagrun for example_sla_dag to 2026-11-02T09:38:00+00:00, run_after=2026-11-02T09:40:00+00:00
+[2026-11-02T09:40:40.590+0000] {processor.py:179} INFO - Processing /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py took 0.059 seconds
+[2026-11-02T09:41:25.383+0000] {processor.py:157} INFO - Started process (PID=12312) to work on /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T09:41:25.384+0000] {processor.py:826} INFO - Processing file /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2026-11-02T09:41:25.385+0000] {logging_mixin.py:150} INFO - [2026-11-02T09:41:25.384+0000] {dagbag.py:541} INFO - Filling up the DagBag from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T09:41:25.392+0000] {processor.py:836} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T09:41:25.407+0000] {logging_mixin.py:150} INFO - [2026-11-02T09:41:25.407+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2026-11-02T09:41:25.426+0000] {logging_mixin.py:150} INFO - [2026-11-02T09:41:25.426+0000] {dag.py:3504} INFO - Setting next_dagrun for example_sla_dag to 2026-11-02T09:38:00+00:00, run_after=2026-11-02T09:40:00+00:00
+[2026-11-02T09:41:25.443+0000] {processor.py:179} INFO - Processing /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py took 0.062 seconds
+[2026-11-02T09:42:08.193+0000] {processor.py:157} INFO - Started process (PID=12598) to work on /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T09:42:08.194+0000] {processor.py:826} INFO - Processing file /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2026-11-02T09:42:08.195+0000] {logging_mixin.py:150} INFO - [2026-11-02T09:42:08.194+0000] {dagbag.py:541} INFO - Filling up the DagBag from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T09:42:08.201+0000] {processor.py:836} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T09:42:08.216+0000] {logging_mixin.py:150} INFO - [2026-11-02T09:42:08.216+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2026-11-02T09:42:08.232+0000] {logging_mixin.py:150} INFO - [2026-11-02T09:42:08.232+0000] {dag.py:3504} INFO - Setting next_dagrun for example_sla_dag to 2026-11-02T09:40:00+00:00, run_after=2026-11-02T09:42:00+00:00
+[2026-11-02T09:42:08.250+0000] {processor.py:179} INFO - Processing /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py took 0.058 seconds
+[2026-11-02T09:42:48.920+0000] {processor.py:157} INFO - Started process (PID=12868) to work on /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T09:42:48.921+0000] {processor.py:826} INFO - Processing file /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2026-11-02T09:42:48.921+0000] {logging_mixin.py:150} INFO - [2026-11-02T09:42:48.921+0000] {dagbag.py:541} INFO - Filling up the DagBag from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T09:42:48.929+0000] {processor.py:836} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T09:42:48.942+0000] {logging_mixin.py:150} INFO - [2026-11-02T09:42:48.942+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2026-11-02T09:42:48.959+0000] {logging_mixin.py:150} INFO - [2026-11-02T09:42:48.959+0000] {dag.py:3504} INFO - Setting next_dagrun for example_sla_dag to 2026-11-02T09:40:00+00:00, run_after=2026-11-02T09:42:00+00:00
+[2026-11-02T09:42:48.976+0000] {processor.py:179} INFO - Processing /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py took 0.059 seconds
+[2026-11-02T09:43:30.352+0000] {processor.py:157} INFO - Started process (PID=13147) to work on /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T09:43:30.353+0000] {processor.py:826} INFO - Processing file /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2026-11-02T09:43:30.353+0000] {logging_mixin.py:150} INFO - [2026-11-02T09:43:30.353+0000] {dagbag.py:541} INFO - Filling up the DagBag from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T09:43:30.362+0000] {processor.py:836} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T09:43:30.378+0000] {logging_mixin.py:150} INFO - [2026-11-02T09:43:30.378+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2026-11-02T09:43:30.396+0000] {logging_mixin.py:150} INFO - [2026-11-02T09:43:30.395+0000] {dag.py:3504} INFO - Setting next_dagrun for example_sla_dag to 2026-11-02T09:40:00+00:00, run_after=2026-11-02T09:42:00+00:00
+[2026-11-02T09:43:30.412+0000] {processor.py:179} INFO - Processing /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py took 0.064 seconds
+[2026-11-02T09:44:16.704+0000] {processor.py:157} INFO - Started process (PID=13448) to work on /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T09:44:16.705+0000] {processor.py:826} INFO - Processing file /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2026-11-02T09:44:16.706+0000] {logging_mixin.py:150} INFO - [2026-11-02T09:44:16.705+0000] {dagbag.py:541} INFO - Filling up the DagBag from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T09:44:16.712+0000] {processor.py:836} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T09:44:16.725+0000] {logging_mixin.py:150} INFO - [2026-11-02T09:44:16.725+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2026-11-02T09:44:16.742+0000] {logging_mixin.py:150} INFO - [2026-11-02T09:44:16.742+0000] {dag.py:3504} INFO - Setting next_dagrun for example_sla_dag to 2026-11-02T09:42:00+00:00, run_after=2026-11-02T09:44:00+00:00
+[2026-11-02T09:44:16.760+0000] {processor.py:179} INFO - Processing /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py took 0.058 seconds
+[2026-11-02T09:45:04.014+0000] {processor.py:157} INFO - Started process (PID=13763) to work on /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T09:45:04.015+0000] {processor.py:826} INFO - Processing file /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2026-11-02T09:45:04.015+0000] {logging_mixin.py:150} INFO - [2026-11-02T09:45:04.015+0000] {dagbag.py:541} INFO - Filling up the DagBag from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T09:45:04.022+0000] {processor.py:836} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T09:45:04.035+0000] {logging_mixin.py:150} INFO - [2026-11-02T09:45:04.035+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2026-11-02T09:45:04.051+0000] {logging_mixin.py:150} INFO - [2026-11-02T09:45:04.051+0000] {dag.py:3504} INFO - Setting next_dagrun for example_sla_dag to 2026-11-02T09:42:00+00:00, run_after=2026-11-02T09:44:00+00:00
+[2026-11-02T09:45:04.068+0000] {processor.py:179} INFO - Processing /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py took 0.056 seconds
+[2026-11-02T09:45:47.448+0000] {processor.py:157} INFO - Started process (PID=14234) to work on /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T09:45:47.449+0000] {processor.py:826} INFO - Processing file /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2026-11-02T09:45:47.450+0000] {logging_mixin.py:150} INFO - [2026-11-02T09:45:47.449+0000] {dagbag.py:541} INFO - Filling up the DagBag from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T09:45:47.456+0000] {processor.py:836} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T09:45:47.470+0000] {logging_mixin.py:150} INFO - [2026-11-02T09:45:47.470+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2026-11-02T09:45:47.487+0000] {logging_mixin.py:150} INFO - [2026-11-02T09:45:47.487+0000] {dag.py:3504} INFO - Setting next_dagrun for example_sla_dag to 2026-11-02T09:42:00+00:00, run_after=2026-11-02T09:44:00+00:00
+[2026-11-02T09:45:47.506+0000] {processor.py:179} INFO - Processing /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py took 0.060 seconds
+[2026-11-02T09:46:26.256+0000] {processor.py:157} INFO - Started process (PID=14571) to work on /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T09:46:26.257+0000] {processor.py:826} INFO - Processing file /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2026-11-02T09:46:26.258+0000] {logging_mixin.py:150} INFO - [2026-11-02T09:46:26.258+0000] {dagbag.py:541} INFO - Filling up the DagBag from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T09:46:26.265+0000] {processor.py:836} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T09:46:26.277+0000] {logging_mixin.py:150} INFO - [2026-11-02T09:46:26.277+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2026-11-02T09:46:26.294+0000] {logging_mixin.py:150} INFO - [2026-11-02T09:46:26.294+0000] {dag.py:3504} INFO - Setting next_dagrun for example_sla_dag to 2026-11-02T09:44:00+00:00, run_after=2026-11-02T09:46:00+00:00
+[2026-11-02T09:46:26.310+0000] {processor.py:179} INFO - Processing /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py took 0.056 seconds
+[2026-11-02T09:47:06.099+0000] {processor.py:157} INFO - Started process (PID=14838) to work on /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T09:47:06.099+0000] {processor.py:826} INFO - Processing file /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2026-11-02T09:47:06.100+0000] {logging_mixin.py:150} INFO - [2026-11-02T09:47:06.100+0000] {dagbag.py:541} INFO - Filling up the DagBag from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T09:47:06.107+0000] {processor.py:836} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T09:47:06.119+0000] {logging_mixin.py:150} INFO - [2026-11-02T09:47:06.119+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2026-11-02T09:47:06.136+0000] {logging_mixin.py:150} INFO - [2026-11-02T09:47:06.136+0000] {dag.py:3504} INFO - Setting next_dagrun for example_sla_dag to 2026-11-02T09:44:00+00:00, run_after=2026-11-02T09:46:00+00:00
+[2026-11-02T09:47:06.154+0000] {processor.py:179} INFO - Processing /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py took 0.058 seconds
+[2026-11-02T09:47:48.643+0000] {processor.py:157} INFO - Started process (PID=15125) to work on /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T09:47:48.644+0000] {processor.py:826} INFO - Processing file /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2026-11-02T09:47:48.645+0000] {logging_mixin.py:150} INFO - [2026-11-02T09:47:48.644+0000] {dagbag.py:541} INFO - Filling up the DagBag from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T09:47:48.651+0000] {processor.py:836} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T09:47:48.664+0000] {logging_mixin.py:150} INFO - [2026-11-02T09:47:48.664+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2026-11-02T09:47:48.680+0000] {logging_mixin.py:150} INFO - [2026-11-02T09:47:48.680+0000] {dag.py:3504} INFO - Setting next_dagrun for example_sla_dag to 2026-11-02T09:44:00+00:00, run_after=2026-11-02T09:46:00+00:00
+[2026-11-02T09:47:48.696+0000] {processor.py:179} INFO - Processing /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py took 0.056 seconds
+[2026-11-02T09:48:27.347+0000] {processor.py:157} INFO - Started process (PID=15438) to work on /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T09:48:27.347+0000] {processor.py:826} INFO - Processing file /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2026-11-02T09:48:27.348+0000] {logging_mixin.py:150} INFO - [2026-11-02T09:48:27.348+0000] {dagbag.py:541} INFO - Filling up the DagBag from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T09:48:27.355+0000] {processor.py:836} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T09:48:27.368+0000] {logging_mixin.py:150} INFO - [2026-11-02T09:48:27.367+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2026-11-02T09:48:27.384+0000] {logging_mixin.py:150} INFO - [2026-11-02T09:48:27.384+0000] {dag.py:3504} INFO - Setting next_dagrun for example_sla_dag to 2026-11-02T09:46:00+00:00, run_after=2026-11-02T09:48:00+00:00
+[2026-11-02T09:48:27.403+0000] {processor.py:179} INFO - Processing /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py took 0.059 seconds
+[2026-11-02T09:49:11.615+0000] {processor.py:157} INFO - Started process (PID=15737) to work on /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T09:49:11.616+0000] {processor.py:826} INFO - Processing file /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2026-11-02T09:49:11.617+0000] {logging_mixin.py:150} INFO - [2026-11-02T09:49:11.616+0000] {dagbag.py:541} INFO - Filling up the DagBag from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T09:49:11.623+0000] {processor.py:836} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T09:49:11.635+0000] {logging_mixin.py:150} INFO - [2026-11-02T09:49:11.635+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2026-11-02T09:49:11.652+0000] {logging_mixin.py:150} INFO - [2026-11-02T09:49:11.652+0000] {dag.py:3504} INFO - Setting next_dagrun for example_sla_dag to 2026-11-02T09:46:00+00:00, run_after=2026-11-02T09:48:00+00:00
+[2026-11-02T09:49:11.669+0000] {processor.py:179} INFO - Processing /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py took 0.056 seconds
+[2026-11-02T09:49:50.738+0000] {processor.py:157} INFO - Started process (PID=15994) to work on /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T09:49:50.739+0000] {processor.py:826} INFO - Processing file /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2026-11-02T09:49:50.740+0000] {logging_mixin.py:150} INFO - [2026-11-02T09:49:50.740+0000] {dagbag.py:541} INFO - Filling up the DagBag from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T09:49:50.747+0000] {processor.py:836} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T09:49:50.759+0000] {logging_mixin.py:150} INFO - [2026-11-02T09:49:50.759+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2026-11-02T09:49:50.777+0000] {logging_mixin.py:150} INFO - [2026-11-02T09:49:50.777+0000] {dag.py:3504} INFO - Setting next_dagrun for example_sla_dag to 2026-11-02T09:46:00+00:00, run_after=2026-11-02T09:48:00+00:00
+[2026-11-02T09:49:50.793+0000] {processor.py:179} INFO - Processing /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py took 0.057 seconds
+[2026-11-02T09:50:34.855+0000] {processor.py:157} INFO - Started process (PID=16287) to work on /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T09:50:34.855+0000] {processor.py:826} INFO - Processing file /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2026-11-02T09:50:34.856+0000] {logging_mixin.py:150} INFO - [2026-11-02T09:50:34.856+0000] {dagbag.py:541} INFO - Filling up the DagBag from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T09:50:34.863+0000] {processor.py:836} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T09:50:34.875+0000] {logging_mixin.py:150} INFO - [2026-11-02T09:50:34.875+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2026-11-02T09:50:34.893+0000] {logging_mixin.py:150} INFO - [2026-11-02T09:50:34.893+0000] {dag.py:3504} INFO - Setting next_dagrun for example_sla_dag to 2026-11-02T09:48:00+00:00, run_after=2026-11-02T09:50:00+00:00
+[2026-11-02T09:50:34.910+0000] {processor.py:179} INFO - Processing /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py took 0.058 seconds
+[2026-11-02T09:51:19.310+0000] {processor.py:157} INFO - Started process (PID=16583) to work on /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T09:51:19.311+0000] {processor.py:826} INFO - Processing file /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2026-11-02T09:51:19.312+0000] {logging_mixin.py:150} INFO - [2026-11-02T09:51:19.311+0000] {dagbag.py:541} INFO - Filling up the DagBag from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T09:51:19.319+0000] {processor.py:836} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T09:51:19.331+0000] {logging_mixin.py:150} INFO - [2026-11-02T09:51:19.331+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2026-11-02T09:51:19.348+0000] {logging_mixin.py:150} INFO - [2026-11-02T09:51:19.348+0000] {dag.py:3504} INFO - Setting next_dagrun for example_sla_dag to 2026-11-02T09:48:00+00:00, run_after=2026-11-02T09:50:00+00:00
+[2026-11-02T09:51:19.364+0000] {processor.py:179} INFO - Processing /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py took 0.058 seconds
+[2026-11-02T09:52:05.639+0000] {processor.py:157} INFO - Started process (PID=16892) to work on /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T09:52:05.640+0000] {processor.py:826} INFO - Processing file /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2026-11-02T09:52:05.641+0000] {logging_mixin.py:150} INFO - [2026-11-02T09:52:05.640+0000] {dagbag.py:541} INFO - Filling up the DagBag from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T09:52:05.647+0000] {processor.py:836} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T09:52:05.660+0000] {logging_mixin.py:150} INFO - [2026-11-02T09:52:05.660+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2026-11-02T09:52:05.677+0000] {logging_mixin.py:150} INFO - [2026-11-02T09:52:05.677+0000] {dag.py:3504} INFO - Setting next_dagrun for example_sla_dag to 2026-11-02T09:50:00+00:00, run_after=2026-11-02T09:52:00+00:00
+[2026-11-02T09:52:05.694+0000] {processor.py:179} INFO - Processing /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py took 0.057 seconds
+[2026-11-02T09:52:49.797+0000] {processor.py:157} INFO - Started process (PID=17180) to work on /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T09:52:49.797+0000] {processor.py:826} INFO - Processing file /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2026-11-02T09:52:49.798+0000] {logging_mixin.py:150} INFO - [2026-11-02T09:52:49.798+0000] {dagbag.py:541} INFO - Filling up the DagBag from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T09:52:49.806+0000] {processor.py:836} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T09:52:49.823+0000] {logging_mixin.py:150} INFO - [2026-11-02T09:52:49.822+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2026-11-02T09:52:49.848+0000] {logging_mixin.py:150} INFO - [2026-11-02T09:52:49.848+0000] {dag.py:3504} INFO - Setting next_dagrun for example_sla_dag to 2026-11-02T09:50:00+00:00, run_after=2026-11-02T09:52:00+00:00
+[2026-11-02T09:52:49.870+0000] {processor.py:179} INFO - Processing /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py took 0.075 seconds
+[2026-11-02T09:53:36.591+0000] {processor.py:157} INFO - Started process (PID=17496) to work on /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T09:53:36.592+0000] {processor.py:826} INFO - Processing file /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2026-11-02T09:53:36.593+0000] {logging_mixin.py:150} INFO - [2026-11-02T09:53:36.592+0000] {dagbag.py:541} INFO - Filling up the DagBag from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T09:53:36.600+0000] {processor.py:836} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T09:53:36.614+0000] {logging_mixin.py:150} INFO - [2026-11-02T09:53:36.614+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2026-11-02T09:53:36.632+0000] {logging_mixin.py:150} INFO - [2026-11-02T09:53:36.632+0000] {dag.py:3504} INFO - Setting next_dagrun for example_sla_dag to 2026-11-02T09:50:00+00:00, run_after=2026-11-02T09:52:00+00:00
+[2026-11-02T09:53:36.648+0000] {processor.py:179} INFO - Processing /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py took 0.060 seconds
+[2026-11-02T09:54:19.411+0000] {processor.py:157} INFO - Started process (PID=17784) to work on /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T09:54:19.412+0000] {processor.py:826} INFO - Processing file /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2026-11-02T09:54:19.413+0000] {logging_mixin.py:150} INFO - [2026-11-02T09:54:19.413+0000] {dagbag.py:541} INFO - Filling up the DagBag from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T09:54:19.420+0000] {processor.py:836} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T09:54:19.432+0000] {logging_mixin.py:150} INFO - [2026-11-02T09:54:19.432+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2026-11-02T09:54:19.449+0000] {logging_mixin.py:150} INFO - [2026-11-02T09:54:19.449+0000] {dag.py:3504} INFO - Setting next_dagrun for example_sla_dag to 2026-11-02T09:52:00+00:00, run_after=2026-11-02T09:54:00+00:00
+[2026-11-02T09:54:19.466+0000] {processor.py:179} INFO - Processing /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py took 0.057 seconds
+[2026-11-02T09:55:04.540+0000] {processor.py:157} INFO - Started process (PID=18086) to work on /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T09:55:04.541+0000] {processor.py:826} INFO - Processing file /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2026-11-02T09:55:04.541+0000] {logging_mixin.py:150} INFO - [2026-11-02T09:55:04.541+0000] {dagbag.py:541} INFO - Filling up the DagBag from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T09:55:04.548+0000] {processor.py:836} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T09:55:04.562+0000] {logging_mixin.py:150} INFO - [2026-11-02T09:55:04.561+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2026-11-02T09:55:04.579+0000] {logging_mixin.py:150} INFO - [2026-11-02T09:55:04.579+0000] {dag.py:3504} INFO - Setting next_dagrun for example_sla_dag to 2026-11-02T09:52:00+00:00, run_after=2026-11-02T09:54:00+00:00
+[2026-11-02T09:55:04.596+0000] {processor.py:179} INFO - Processing /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py took 0.058 seconds
+[2026-11-02T09:55:47.917+0000] {processor.py:157} INFO - Started process (PID=18374) to work on /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T09:55:47.918+0000] {processor.py:826} INFO - Processing file /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2026-11-02T09:55:47.919+0000] {logging_mixin.py:150} INFO - [2026-11-02T09:55:47.919+0000] {dagbag.py:541} INFO - Filling up the DagBag from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T09:55:47.926+0000] {processor.py:836} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T09:55:47.939+0000] {logging_mixin.py:150} INFO - [2026-11-02T09:55:47.939+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2026-11-02T09:55:47.957+0000] {logging_mixin.py:150} INFO - [2026-11-02T09:55:47.957+0000] {dag.py:3504} INFO - Setting next_dagrun for example_sla_dag to 2026-11-02T09:52:00+00:00, run_after=2026-11-02T09:54:00+00:00
+[2026-11-02T09:55:47.974+0000] {processor.py:179} INFO - Processing /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py took 0.059 seconds
+[2026-11-02T09:56:31.736+0000] {processor.py:157} INFO - Started process (PID=18667) to work on /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T09:56:31.737+0000] {processor.py:826} INFO - Processing file /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2026-11-02T09:56:31.737+0000] {logging_mixin.py:150} INFO - [2026-11-02T09:56:31.737+0000] {dagbag.py:541} INFO - Filling up the DagBag from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T09:56:31.745+0000] {processor.py:836} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T09:56:31.758+0000] {logging_mixin.py:150} INFO - [2026-11-02T09:56:31.757+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2026-11-02T09:56:31.776+0000] {logging_mixin.py:150} INFO - [2026-11-02T09:56:31.775+0000] {dag.py:3504} INFO - Setting next_dagrun for example_sla_dag to 2026-11-02T09:54:00+00:00, run_after=2026-11-02T09:56:00+00:00
+[2026-11-02T09:56:31.792+0000] {processor.py:179} INFO - Processing /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py took 0.059 seconds
+[2026-11-02T09:57:15.734+0000] {processor.py:157} INFO - Started process (PID=18961) to work on /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T09:57:15.734+0000] {processor.py:826} INFO - Processing file /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2026-11-02T09:57:15.735+0000] {logging_mixin.py:150} INFO - [2026-11-02T09:57:15.735+0000] {dagbag.py:541} INFO - Filling up the DagBag from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T09:57:15.742+0000] {processor.py:836} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T09:57:15.755+0000] {logging_mixin.py:150} INFO - [2026-11-02T09:57:15.754+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2026-11-02T09:57:15.772+0000] {logging_mixin.py:150} INFO - [2026-11-02T09:57:15.771+0000] {dag.py:3504} INFO - Setting next_dagrun for example_sla_dag to 2026-11-02T09:54:00+00:00, run_after=2026-11-02T09:56:00+00:00
+[2026-11-02T09:57:15.788+0000] {processor.py:179} INFO - Processing /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py took 0.057 seconds
+[2026-11-02T09:58:01.554+0000] {processor.py:157} INFO - Started process (PID=19264) to work on /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T09:58:01.555+0000] {processor.py:826} INFO - Processing file /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2026-11-02T09:58:01.556+0000] {logging_mixin.py:150} INFO - [2026-11-02T09:58:01.556+0000] {dagbag.py:541} INFO - Filling up the DagBag from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T09:58:01.563+0000] {processor.py:836} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T09:58:01.576+0000] {logging_mixin.py:150} INFO - [2026-11-02T09:58:01.576+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2026-11-02T09:58:01.593+0000] {logging_mixin.py:150} INFO - [2026-11-02T09:58:01.593+0000] {dag.py:3504} INFO - Setting next_dagrun for example_sla_dag to 2026-11-02T09:56:00+00:00, run_after=2026-11-02T09:58:00+00:00
+[2026-11-02T09:58:01.609+0000] {processor.py:179} INFO - Processing /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py took 0.058 seconds
+[2026-11-02T09:58:44.341+0000] {processor.py:157} INFO - Started process (PID=19555) to work on /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T09:58:44.342+0000] {processor.py:826} INFO - Processing file /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2026-11-02T09:58:44.343+0000] {logging_mixin.py:150} INFO - [2026-11-02T09:58:44.343+0000] {dagbag.py:541} INFO - Filling up the DagBag from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T09:58:44.349+0000] {processor.py:836} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T09:58:44.362+0000] {logging_mixin.py:150} INFO - [2026-11-02T09:58:44.362+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2026-11-02T09:58:44.378+0000] {logging_mixin.py:150} INFO - [2026-11-02T09:58:44.378+0000] {dag.py:3504} INFO - Setting next_dagrun for example_sla_dag to 2026-11-02T09:56:00+00:00, run_after=2026-11-02T09:58:00+00:00
+[2026-11-02T09:58:44.399+0000] {processor.py:179} INFO - Processing /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py took 0.061 seconds
+[2026-11-02T09:59:28.842+0000] {processor.py:157} INFO - Started process (PID=19843) to work on /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T09:59:28.843+0000] {processor.py:826} INFO - Processing file /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2026-11-02T09:59:28.844+0000] {logging_mixin.py:150} INFO - [2026-11-02T09:59:28.843+0000] {dagbag.py:541} INFO - Filling up the DagBag from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T09:59:28.851+0000] {processor.py:836} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T09:59:28.864+0000] {logging_mixin.py:150} INFO - [2026-11-02T09:59:28.863+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2026-11-02T09:59:28.881+0000] {logging_mixin.py:150} INFO - [2026-11-02T09:59:28.881+0000] {dag.py:3504} INFO - Setting next_dagrun for example_sla_dag to 2026-11-02T09:56:00+00:00, run_after=2026-11-02T09:58:00+00:00
+[2026-11-02T09:59:28.897+0000] {processor.py:179} INFO - Processing /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py took 0.058 seconds
+[2026-11-02T10:00:12.713+0000] {processor.py:157} INFO - Started process (PID=20136) to work on /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T10:00:12.714+0000] {processor.py:826} INFO - Processing file /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2026-11-02T10:00:12.715+0000] {logging_mixin.py:150} INFO - [2026-11-02T10:00:12.714+0000] {dagbag.py:541} INFO - Filling up the DagBag from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T10:00:12.722+0000] {processor.py:836} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T10:00:12.735+0000] {logging_mixin.py:150} INFO - [2026-11-02T10:00:12.735+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2026-11-02T10:00:12.753+0000] {logging_mixin.py:150} INFO - [2026-11-02T10:00:12.753+0000] {dag.py:3504} INFO - Setting next_dagrun for example_sla_dag to 2026-11-02T09:58:00+00:00, run_after=2026-11-02T10:00:00+00:00
+[2026-11-02T10:00:12.770+0000] {processor.py:179} INFO - Processing /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py took 0.060 seconds
+[2026-11-02T10:00:54.936+0000] {processor.py:157} INFO - Started process (PID=20419) to work on /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T10:00:54.937+0000] {processor.py:826} INFO - Processing file /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2026-11-02T10:00:54.937+0000] {logging_mixin.py:150} INFO - [2026-11-02T10:00:54.937+0000] {dagbag.py:541} INFO - Filling up the DagBag from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T10:00:54.944+0000] {processor.py:836} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T10:00:54.957+0000] {logging_mixin.py:150} INFO - [2026-11-02T10:00:54.957+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2026-11-02T10:00:54.974+0000] {logging_mixin.py:150} INFO - [2026-11-02T10:00:54.974+0000] {dag.py:3504} INFO - Setting next_dagrun for example_sla_dag to 2026-11-02T09:58:00+00:00, run_after=2026-11-02T10:00:00+00:00
+[2026-11-02T10:00:54.989+0000] {processor.py:179} INFO - Processing /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py took 0.056 seconds
+[2026-11-02T10:01:38.308+0000] {processor.py:157} INFO - Started process (PID=20706) to work on /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T10:01:38.309+0000] {processor.py:826} INFO - Processing file /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2026-11-02T10:01:38.309+0000] {logging_mixin.py:150} INFO - [2026-11-02T10:01:38.309+0000] {dagbag.py:541} INFO - Filling up the DagBag from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T10:01:38.317+0000] {processor.py:836} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T10:01:38.329+0000] {logging_mixin.py:150} INFO - [2026-11-02T10:01:38.329+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2026-11-02T10:01:38.347+0000] {logging_mixin.py:150} INFO - [2026-11-02T10:01:38.347+0000] {dag.py:3504} INFO - Setting next_dagrun for example_sla_dag to 2026-11-02T09:58:00+00:00, run_after=2026-11-02T10:00:00+00:00
+[2026-11-02T10:01:38.364+0000] {processor.py:179} INFO - Processing /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py took 0.058 seconds
+[2026-11-02T10:02:21.164+0000] {processor.py:157} INFO - Started process (PID=20992) to work on /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T10:02:21.165+0000] {processor.py:826} INFO - Processing file /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2026-11-02T10:02:21.165+0000] {logging_mixin.py:150} INFO - [2026-11-02T10:02:21.165+0000] {dagbag.py:541} INFO - Filling up the DagBag from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T10:02:21.172+0000] {processor.py:836} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T10:02:21.185+0000] {logging_mixin.py:150} INFO - [2026-11-02T10:02:21.185+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2026-11-02T10:02:21.202+0000] {logging_mixin.py:150} INFO - [2026-11-02T10:02:21.202+0000] {dag.py:3504} INFO - Setting next_dagrun for example_sla_dag to 2026-11-02T10:00:00+00:00, run_after=2026-11-02T10:02:00+00:00
+[2026-11-02T10:02:21.219+0000] {processor.py:179} INFO - Processing /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py took 0.058 seconds
+[2026-11-02T10:03:04.398+0000] {processor.py:157} INFO - Started process (PID=21282) to work on /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T10:03:04.399+0000] {processor.py:826} INFO - Processing file /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2026-11-02T10:03:04.399+0000] {logging_mixin.py:150} INFO - [2026-11-02T10:03:04.399+0000] {dagbag.py:541} INFO - Filling up the DagBag from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T10:03:04.406+0000] {processor.py:836} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T10:03:04.419+0000] {logging_mixin.py:150} INFO - [2026-11-02T10:03:04.419+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2026-11-02T10:03:04.436+0000] {logging_mixin.py:150} INFO - [2026-11-02T10:03:04.436+0000] {dag.py:3504} INFO - Setting next_dagrun for example_sla_dag to 2026-11-02T10:00:00+00:00, run_after=2026-11-02T10:02:00+00:00
+[2026-11-02T10:03:04.452+0000] {processor.py:179} INFO - Processing /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py took 0.057 seconds
+[2026-11-02T10:03:50.597+0000] {processor.py:157} INFO - Started process (PID=21663) to work on /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T10:03:50.598+0000] {processor.py:826} INFO - Processing file /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2026-11-02T10:03:50.599+0000] {logging_mixin.py:150} INFO - [2026-11-02T10:03:50.598+0000] {dagbag.py:541} INFO - Filling up the DagBag from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T10:03:50.608+0000] {processor.py:836} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T10:03:50.622+0000] {logging_mixin.py:150} INFO - [2026-11-02T10:03:50.621+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2026-11-02T10:03:50.638+0000] {logging_mixin.py:150} INFO - [2026-11-02T10:03:50.638+0000] {dag.py:3504} INFO - Setting next_dagrun for example_sla_dag to 2026-11-02T10:00:00+00:00, run_after=2026-11-02T10:02:00+00:00
+[2026-11-02T10:03:50.654+0000] {processor.py:179} INFO - Processing /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py took 0.061 seconds
+[2026-11-02T10:04:35.775+0000] {processor.py:157} INFO - Started process (PID=22055) to work on /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T10:04:35.776+0000] {processor.py:826} INFO - Processing file /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2026-11-02T10:04:35.777+0000] {logging_mixin.py:150} INFO - [2026-11-02T10:04:35.777+0000] {dagbag.py:541} INFO - Filling up the DagBag from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T10:04:35.787+0000] {processor.py:836} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T10:04:35.805+0000] {logging_mixin.py:150} INFO - [2026-11-02T10:04:35.805+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2026-11-02T10:04:35.831+0000] {logging_mixin.py:150} INFO - [2026-11-02T10:04:35.831+0000] {dag.py:3504} INFO - Setting next_dagrun for example_sla_dag to 2026-11-02T10:02:00+00:00, run_after=2026-11-02T10:04:00+00:00
+[2026-11-02T10:04:35.853+0000] {processor.py:179} INFO - Processing /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py took 0.082 seconds
+[2026-11-02T10:05:22.263+0000] {processor.py:157} INFO - Started process (PID=22359) to work on /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T10:05:22.264+0000] {processor.py:826} INFO - Processing file /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2026-11-02T10:05:22.265+0000] {logging_mixin.py:150} INFO - [2026-11-02T10:05:22.264+0000] {dagbag.py:541} INFO - Filling up the DagBag from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T10:05:22.274+0000] {processor.py:836} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T10:05:22.292+0000] {logging_mixin.py:150} INFO - [2026-11-02T10:05:22.291+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2026-11-02T10:05:22.317+0000] {logging_mixin.py:150} INFO - [2026-11-02T10:05:22.316+0000] {dag.py:3504} INFO - Setting next_dagrun for example_sla_dag to 2026-11-02T10:02:00+00:00, run_after=2026-11-02T10:04:00+00:00
+[2026-11-02T10:05:22.346+0000] {processor.py:179} INFO - Processing /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py took 0.086 seconds
+[2026-11-02T10:06:07.186+0000] {processor.py:157} INFO - Started process (PID=22660) to work on /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T10:06:07.187+0000] {processor.py:826} INFO - Processing file /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2026-11-02T10:06:07.188+0000] {logging_mixin.py:150} INFO - [2026-11-02T10:06:07.188+0000] {dagbag.py:541} INFO - Filling up the DagBag from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T10:06:07.198+0000] {processor.py:836} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T10:06:07.212+0000] {logging_mixin.py:150} INFO - [2026-11-02T10:06:07.212+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2026-11-02T10:06:07.230+0000] {logging_mixin.py:150} INFO - [2026-11-02T10:06:07.230+0000] {dag.py:3504} INFO - Setting next_dagrun for example_sla_dag to 2026-11-02T10:04:00+00:00, run_after=2026-11-02T10:06:00+00:00
+[2026-11-02T10:06:07.247+0000] {processor.py:179} INFO - Processing /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py took 0.064 seconds
+[2026-11-02T10:06:53.625+0000] {processor.py:157} INFO - Started process (PID=22965) to work on /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T10:06:53.626+0000] {processor.py:826} INFO - Processing file /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2026-11-02T10:06:53.627+0000] {logging_mixin.py:150} INFO - [2026-11-02T10:06:53.626+0000] {dagbag.py:541} INFO - Filling up the DagBag from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T10:06:53.633+0000] {processor.py:836} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T10:06:53.646+0000] {logging_mixin.py:150} INFO - [2026-11-02T10:06:53.646+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2026-11-02T10:06:53.665+0000] {logging_mixin.py:150} INFO - [2026-11-02T10:06:53.664+0000] {dag.py:3504} INFO - Setting next_dagrun for example_sla_dag to 2026-11-02T10:04:00+00:00, run_after=2026-11-02T10:06:00+00:00
+[2026-11-02T10:06:53.682+0000] {processor.py:179} INFO - Processing /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py took 0.059 seconds
+[2026-11-02T10:07:40.978+0000] {processor.py:157} INFO - Started process (PID=23312) to work on /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T10:07:40.979+0000] {processor.py:826} INFO - Processing file /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2026-11-02T10:07:40.980+0000] {logging_mixin.py:150} INFO - [2026-11-02T10:07:40.979+0000] {dagbag.py:541} INFO - Filling up the DagBag from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T10:07:40.988+0000] {processor.py:836} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T10:07:41.006+0000] {logging_mixin.py:150} INFO - [2026-11-02T10:07:41.005+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2026-11-02T10:07:41.023+0000] {logging_mixin.py:150} INFO - [2026-11-02T10:07:41.023+0000] {dag.py:3504} INFO - Setting next_dagrun for example_sla_dag to 2026-11-02T10:04:00+00:00, run_after=2026-11-02T10:06:00+00:00
+[2026-11-02T10:07:41.039+0000] {processor.py:179} INFO - Processing /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py took 0.064 seconds
+[2026-11-02T10:08:23.240+0000] {processor.py:157} INFO - Started process (PID=23816) to work on /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T10:08:23.241+0000] {processor.py:826} INFO - Processing file /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2026-11-02T10:08:23.242+0000] {logging_mixin.py:150} INFO - [2026-11-02T10:08:23.241+0000] {dagbag.py:541} INFO - Filling up the DagBag from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T10:08:23.249+0000] {processor.py:836} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T10:08:23.261+0000] {logging_mixin.py:150} INFO - [2026-11-02T10:08:23.261+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2026-11-02T10:08:23.277+0000] {logging_mixin.py:150} INFO - [2026-11-02T10:08:23.277+0000] {dag.py:3504} INFO - Setting next_dagrun for example_sla_dag to 2026-11-02T10:06:00+00:00, run_after=2026-11-02T10:08:00+00:00
+[2026-11-02T10:08:23.299+0000] {processor.py:179} INFO - Processing /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py took 0.061 seconds
+[2026-11-02T10:09:09.253+0000] {processor.py:157} INFO - Started process (PID=24258) to work on /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T10:09:09.254+0000] {processor.py:826} INFO - Processing file /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2026-11-02T10:09:09.255+0000] {logging_mixin.py:150} INFO - [2026-11-02T10:09:09.254+0000] {dagbag.py:541} INFO - Filling up the DagBag from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T10:09:09.262+0000] {processor.py:836} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T10:09:09.277+0000] {logging_mixin.py:150} INFO - [2026-11-02T10:09:09.277+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2026-11-02T10:09:09.298+0000] {logging_mixin.py:150} INFO - [2026-11-02T10:09:09.298+0000] {dag.py:3504} INFO - Setting next_dagrun for example_sla_dag to 2026-11-02T10:06:00+00:00, run_after=2026-11-02T10:08:00+00:00
+[2026-11-02T10:09:09.315+0000] {processor.py:179} INFO - Processing /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py took 0.064 seconds
+[2026-11-02T10:09:55.532+0000] {processor.py:157} INFO - Started process (PID=24581) to work on /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T10:09:55.533+0000] {processor.py:826} INFO - Processing file /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2026-11-02T10:09:55.534+0000] {logging_mixin.py:150} INFO - [2026-11-02T10:09:55.533+0000] {dagbag.py:541} INFO - Filling up the DagBag from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T10:09:55.540+0000] {processor.py:836} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T10:09:55.552+0000] {logging_mixin.py:150} INFO - [2026-11-02T10:09:55.552+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2026-11-02T10:09:55.568+0000] {logging_mixin.py:150} INFO - [2026-11-02T10:09:55.567+0000] {dag.py:3504} INFO - Setting next_dagrun for example_sla_dag to 2026-11-02T10:06:00+00:00, run_after=2026-11-02T10:08:00+00:00
+[2026-11-02T10:09:55.583+0000] {processor.py:179} INFO - Processing /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py took 0.053 seconds
+[2026-11-02T10:10:42.207+0000] {processor.py:157} INFO - Started process (PID=25141) to work on /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T10:10:42.208+0000] {processor.py:826} INFO - Processing file /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2026-11-02T10:10:42.208+0000] {logging_mixin.py:150} INFO - [2026-11-02T10:10:42.208+0000] {dagbag.py:541} INFO - Filling up the DagBag from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T10:10:42.215+0000] {processor.py:836} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T10:10:42.226+0000] {logging_mixin.py:150} INFO - [2026-11-02T10:10:42.226+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2026-11-02T10:10:42.242+0000] {logging_mixin.py:150} INFO - [2026-11-02T10:10:42.241+0000] {dag.py:3504} INFO - Setting next_dagrun for example_sla_dag to 2026-11-02T10:08:00+00:00, run_after=2026-11-02T10:10:00+00:00
+[2026-11-02T10:10:42.257+0000] {processor.py:179} INFO - Processing /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py took 0.053 seconds
+[2026-11-02T10:11:25.830+0000] {processor.py:157} INFO - Started process (PID=25555) to work on /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T10:11:25.831+0000] {processor.py:826} INFO - Processing file /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2026-11-02T10:11:25.832+0000] {logging_mixin.py:150} INFO - [2026-11-02T10:11:25.832+0000] {dagbag.py:541} INFO - Filling up the DagBag from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T10:11:25.842+0000] {processor.py:836} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T10:11:25.855+0000] {logging_mixin.py:150} INFO - [2026-11-02T10:11:25.855+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2026-11-02T10:11:25.871+0000] {logging_mixin.py:150} INFO - [2026-11-02T10:11:25.871+0000] {dag.py:3504} INFO - Setting next_dagrun for example_sla_dag to 2026-11-02T10:08:00+00:00, run_after=2026-11-02T10:10:00+00:00
+[2026-11-02T10:11:25.888+0000] {processor.py:179} INFO - Processing /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py took 0.061 seconds
+[2026-11-02T10:12:11.932+0000] {processor.py:157} INFO - Started process (PID=25967) to work on /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T10:12:11.933+0000] {processor.py:826} INFO - Processing file /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2026-11-02T10:12:11.934+0000] {logging_mixin.py:150} INFO - [2026-11-02T10:12:11.933+0000] {dagbag.py:541} INFO - Filling up the DagBag from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T10:12:11.940+0000] {processor.py:836} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T10:12:11.952+0000] {logging_mixin.py:150} INFO - [2026-11-02T10:12:11.952+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2026-11-02T10:12:11.968+0000] {logging_mixin.py:150} INFO - [2026-11-02T10:12:11.968+0000] {dag.py:3504} INFO - Setting next_dagrun for example_sla_dag to 2026-11-02T10:10:00+00:00, run_after=2026-11-02T10:12:00+00:00
+[2026-11-02T10:12:11.985+0000] {processor.py:179} INFO - Processing /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py took 0.055 seconds
+[2026-11-02T10:12:52.495+0000] {processor.py:157} INFO - Started process (PID=26228) to work on /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T10:12:52.496+0000] {processor.py:826} INFO - Processing file /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2026-11-02T10:12:52.497+0000] {logging_mixin.py:150} INFO - [2026-11-02T10:12:52.496+0000] {dagbag.py:541} INFO - Filling up the DagBag from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T10:12:52.505+0000] {processor.py:836} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T10:12:52.517+0000] {logging_mixin.py:150} INFO - [2026-11-02T10:12:52.517+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2026-11-02T10:12:52.534+0000] {logging_mixin.py:150} INFO - [2026-11-02T10:12:52.534+0000] {dag.py:3504} INFO - Setting next_dagrun for example_sla_dag to 2026-11-02T10:10:00+00:00, run_after=2026-11-02T10:12:00+00:00
+[2026-11-02T10:12:52.549+0000] {processor.py:179} INFO - Processing /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py took 0.056 seconds
+[2026-11-02T10:13:35.453+0000] {processor.py:157} INFO - Started process (PID=26513) to work on /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T10:13:35.454+0000] {processor.py:826} INFO - Processing file /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2026-11-02T10:13:35.454+0000] {logging_mixin.py:150} INFO - [2026-11-02T10:13:35.454+0000] {dagbag.py:541} INFO - Filling up the DagBag from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T10:13:35.461+0000] {processor.py:836} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T10:13:35.473+0000] {logging_mixin.py:150} INFO - [2026-11-02T10:13:35.473+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2026-11-02T10:13:35.492+0000] {logging_mixin.py:150} INFO - [2026-11-02T10:13:35.491+0000] {dag.py:3504} INFO - Setting next_dagrun for example_sla_dag to 2026-11-02T10:10:00+00:00, run_after=2026-11-02T10:12:00+00:00
+[2026-11-02T10:13:35.512+0000] {processor.py:179} INFO - Processing /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py took 0.061 seconds
+[2026-11-02T10:14:17.690+0000] {processor.py:157} INFO - Started process (PID=26799) to work on /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T10:14:17.691+0000] {processor.py:826} INFO - Processing file /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2026-11-02T10:14:17.692+0000] {logging_mixin.py:150} INFO - [2026-11-02T10:14:17.691+0000] {dagbag.py:541} INFO - Filling up the DagBag from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T10:14:17.699+0000] {processor.py:836} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T10:14:17.715+0000] {logging_mixin.py:150} INFO - [2026-11-02T10:14:17.715+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2026-11-02T10:14:17.738+0000] {logging_mixin.py:150} INFO - [2026-11-02T10:14:17.738+0000] {dag.py:3504} INFO - Setting next_dagrun for example_sla_dag to 2026-11-02T10:12:00+00:00, run_after=2026-11-02T10:14:00+00:00
+[2026-11-02T10:14:17.764+0000] {processor.py:179} INFO - Processing /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py took 0.078 seconds
+[2026-11-02T10:14:57.669+0000] {processor.py:157} INFO - Started process (PID=27059) to work on /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T10:14:57.670+0000] {processor.py:826} INFO - Processing file /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2026-11-02T10:14:57.671+0000] {logging_mixin.py:150} INFO - [2026-11-02T10:14:57.670+0000] {dagbag.py:541} INFO - Filling up the DagBag from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T10:14:57.677+0000] {processor.py:836} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T10:14:57.692+0000] {logging_mixin.py:150} INFO - [2026-11-02T10:14:57.691+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2026-11-02T10:14:57.717+0000] {logging_mixin.py:150} INFO - [2026-11-02T10:14:57.717+0000] {dag.py:3504} INFO - Setting next_dagrun for example_sla_dag to 2026-11-02T10:12:00+00:00, run_after=2026-11-02T10:14:00+00:00
+[2026-11-02T10:14:57.740+0000] {processor.py:179} INFO - Processing /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py took 0.073 seconds
+[2026-11-02T10:15:40.519+0000] {processor.py:157} INFO - Started process (PID=27350) to work on /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T10:15:40.520+0000] {processor.py:826} INFO - Processing file /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2026-11-02T10:15:40.520+0000] {logging_mixin.py:150} INFO - [2026-11-02T10:15:40.520+0000] {dagbag.py:541} INFO - Filling up the DagBag from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T10:15:40.528+0000] {processor.py:836} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T10:15:40.540+0000] {logging_mixin.py:150} INFO - [2026-11-02T10:15:40.540+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2026-11-02T10:15:40.556+0000] {logging_mixin.py:150} INFO - [2026-11-02T10:15:40.556+0000] {dag.py:3504} INFO - Setting next_dagrun for example_sla_dag to 2026-11-02T10:12:00+00:00, run_after=2026-11-02T10:14:00+00:00
+[2026-11-02T10:15:40.570+0000] {processor.py:179} INFO - Processing /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py took 0.053 seconds
+[2026-11-02T10:16:23.772+0000] {processor.py:157} INFO - Started process (PID=27635) to work on /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T10:16:23.773+0000] {processor.py:826} INFO - Processing file /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2026-11-02T10:16:23.773+0000] {logging_mixin.py:150} INFO - [2026-11-02T10:16:23.773+0000] {dagbag.py:541} INFO - Filling up the DagBag from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T10:16:23.780+0000] {processor.py:836} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T10:16:23.795+0000] {logging_mixin.py:150} INFO - [2026-11-02T10:16:23.795+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2026-11-02T10:16:23.814+0000] {logging_mixin.py:150} INFO - [2026-11-02T10:16:23.814+0000] {dag.py:3504} INFO - Setting next_dagrun for example_sla_dag to 2026-11-02T10:14:00+00:00, run_after=2026-11-02T10:16:00+00:00
+[2026-11-02T10:16:23.829+0000] {processor.py:179} INFO - Processing /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py took 0.059 seconds
+[2026-11-02T10:17:08.364+0000] {processor.py:157} INFO - Started process (PID=27929) to work on /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T10:17:08.365+0000] {processor.py:826} INFO - Processing file /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2026-11-02T10:17:08.365+0000] {logging_mixin.py:150} INFO - [2026-11-02T10:17:08.365+0000] {dagbag.py:541} INFO - Filling up the DagBag from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T10:17:08.372+0000] {processor.py:836} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T10:17:08.384+0000] {logging_mixin.py:150} INFO - [2026-11-02T10:17:08.384+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2026-11-02T10:17:08.407+0000] {logging_mixin.py:150} INFO - [2026-11-02T10:17:08.406+0000] {dag.py:3504} INFO - Setting next_dagrun for example_sla_dag to 2026-11-02T10:14:00+00:00, run_after=2026-11-02T10:16:00+00:00
+[2026-11-02T10:17:08.423+0000] {processor.py:179} INFO - Processing /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py took 0.062 seconds
+[2026-11-02T10:17:54.589+0000] {processor.py:157} INFO - Started process (PID=28243) to work on /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T10:17:54.590+0000] {processor.py:826} INFO - Processing file /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2026-11-02T10:17:54.591+0000] {logging_mixin.py:150} INFO - [2026-11-02T10:17:54.590+0000] {dagbag.py:541} INFO - Filling up the DagBag from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T10:17:54.599+0000] {processor.py:836} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T10:17:54.614+0000] {logging_mixin.py:150} INFO - [2026-11-02T10:17:54.614+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2026-11-02T10:17:54.630+0000] {logging_mixin.py:150} INFO - [2026-11-02T10:17:54.630+0000] {dag.py:3504} INFO - Setting next_dagrun for example_sla_dag to 2026-11-02T10:14:00+00:00, run_after=2026-11-02T10:16:00+00:00
+[2026-11-02T10:17:54.646+0000] {processor.py:179} INFO - Processing /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py took 0.062 seconds
+[2026-11-02T10:18:37.147+0000] {processor.py:157} INFO - Started process (PID=28632) to work on /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T10:18:37.147+0000] {processor.py:826} INFO - Processing file /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2026-11-02T10:18:37.148+0000] {logging_mixin.py:150} INFO - [2026-11-02T10:18:37.148+0000] {dagbag.py:541} INFO - Filling up the DagBag from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T10:18:37.155+0000] {processor.py:836} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T10:18:37.167+0000] {logging_mixin.py:150} INFO - [2026-11-02T10:18:37.167+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2026-11-02T10:18:37.184+0000] {logging_mixin.py:150} INFO - [2026-11-02T10:18:37.183+0000] {dag.py:3504} INFO - Setting next_dagrun for example_sla_dag to 2026-11-02T10:16:00+00:00, run_after=2026-11-02T10:18:00+00:00
+[2026-11-02T10:18:37.205+0000] {processor.py:179} INFO - Processing /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py took 0.061 seconds
+[2026-11-02T10:19:20.879+0000] {processor.py:157} INFO - Started process (PID=28930) to work on /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T10:19:20.879+0000] {processor.py:826} INFO - Processing file /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2026-11-02T10:19:20.880+0000] {logging_mixin.py:150} INFO - [2026-11-02T10:19:20.880+0000] {dagbag.py:541} INFO - Filling up the DagBag from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T10:19:20.887+0000] {processor.py:836} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T10:19:20.906+0000] {logging_mixin.py:150} INFO - [2026-11-02T10:19:20.906+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2026-11-02T10:19:20.921+0000] {logging_mixin.py:150} INFO - [2026-11-02T10:19:20.921+0000] {dag.py:3504} INFO - Setting next_dagrun for example_sla_dag to 2026-11-02T10:16:00+00:00, run_after=2026-11-02T10:18:00+00:00
+[2026-11-02T10:19:20.936+0000] {processor.py:179} INFO - Processing /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py took 0.059 seconds
+[2026-11-02T10:20:05.971+0000] {processor.py:157} INFO - Started process (PID=29221) to work on /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T10:20:05.972+0000] {processor.py:826} INFO - Processing file /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2026-11-02T10:20:05.973+0000] {logging_mixin.py:150} INFO - [2026-11-02T10:20:05.973+0000] {dagbag.py:541} INFO - Filling up the DagBag from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T10:20:05.980+0000] {processor.py:836} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T10:20:05.996+0000] {logging_mixin.py:150} INFO - [2026-11-02T10:20:05.996+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2026-11-02T10:20:06.018+0000] {logging_mixin.py:150} INFO - [2026-11-02T10:20:06.018+0000] {dag.py:3504} INFO - Setting next_dagrun for example_sla_dag to 2026-11-02T10:18:00+00:00, run_after=2026-11-02T10:20:00+00:00
+[2026-11-02T10:20:06.034+0000] {processor.py:179} INFO - Processing /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py took 0.065 seconds
+[2026-11-02T10:20:53.469+0000] {processor.py:157} INFO - Started process (PID=29540) to work on /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T10:20:53.470+0000] {processor.py:826} INFO - Processing file /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2026-11-02T10:20:53.471+0000] {logging_mixin.py:150} INFO - [2026-11-02T10:20:53.470+0000] {dagbag.py:541} INFO - Filling up the DagBag from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T10:20:53.477+0000] {processor.py:836} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T10:20:53.494+0000] {logging_mixin.py:150} INFO - [2026-11-02T10:20:53.494+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2026-11-02T10:20:53.523+0000] {logging_mixin.py:150} INFO - [2026-11-02T10:20:53.523+0000] {dag.py:3504} INFO - Setting next_dagrun for example_sla_dag to 2026-11-02T10:18:00+00:00, run_after=2026-11-02T10:20:00+00:00
+[2026-11-02T10:20:53.556+0000] {processor.py:179} INFO - Processing /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py took 0.089 seconds
+[2026-11-02T10:21:37.350+0000] {processor.py:157} INFO - Started process (PID=29941) to work on /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T10:21:37.351+0000] {processor.py:826} INFO - Processing file /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2026-11-02T10:21:37.352+0000] {logging_mixin.py:150} INFO - [2026-11-02T10:21:37.351+0000] {dagbag.py:541} INFO - Filling up the DagBag from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T10:21:37.359+0000] {processor.py:836} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T10:21:37.370+0000] {logging_mixin.py:150} INFO - [2026-11-02T10:21:37.370+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2026-11-02T10:21:37.387+0000] {logging_mixin.py:150} INFO - [2026-11-02T10:21:37.387+0000] {dag.py:3504} INFO - Setting next_dagrun for example_sla_dag to 2026-11-02T10:18:00+00:00, run_after=2026-11-02T10:20:00+00:00
+[2026-11-02T10:21:37.406+0000] {processor.py:179} INFO - Processing /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py took 0.058 seconds
+[2026-11-02T10:22:12.315+0000] {processor.py:157} INFO - Started process (PID=30211) to work on /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T10:22:12.316+0000] {processor.py:826} INFO - Processing file /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2026-11-02T10:22:12.316+0000] {logging_mixin.py:150} INFO - [2026-11-02T10:22:12.316+0000] {dagbag.py:541} INFO - Filling up the DagBag from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T10:22:12.323+0000] {processor.py:836} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T10:22:12.335+0000] {logging_mixin.py:150} INFO - [2026-11-02T10:22:12.335+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2026-11-02T10:22:12.351+0000] {logging_mixin.py:150} INFO - [2026-11-02T10:22:12.351+0000] {dag.py:3504} INFO - Setting next_dagrun for example_sla_dag to 2026-11-02T10:20:00+00:00, run_after=2026-11-02T10:22:00+00:00
+[2026-11-02T10:22:12.368+0000] {processor.py:179} INFO - Processing /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py took 0.055 seconds
+[2026-11-02T10:22:52.747+0000] {processor.py:157} INFO - Started process (PID=30506) to work on /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T10:22:52.748+0000] {processor.py:826} INFO - Processing file /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2026-11-02T10:22:52.748+0000] {logging_mixin.py:150} INFO - [2026-11-02T10:22:52.748+0000] {dagbag.py:541} INFO - Filling up the DagBag from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T10:22:52.755+0000] {processor.py:836} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T10:22:52.766+0000] {logging_mixin.py:150} INFO - [2026-11-02T10:22:52.766+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2026-11-02T10:22:52.782+0000] {logging_mixin.py:150} INFO - [2026-11-02T10:22:52.782+0000] {dag.py:3504} INFO - Setting next_dagrun for example_sla_dag to 2026-11-02T10:20:00+00:00, run_after=2026-11-02T10:22:00+00:00
+[2026-11-02T10:22:52.803+0000] {processor.py:179} INFO - Processing /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py took 0.058 seconds
+[2026-11-02T10:23:35.564+0000] {processor.py:157} INFO - Started process (PID=30791) to work on /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T10:23:35.565+0000] {processor.py:826} INFO - Processing file /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2026-11-02T10:23:35.565+0000] {logging_mixin.py:150} INFO - [2026-11-02T10:23:35.565+0000] {dagbag.py:541} INFO - Filling up the DagBag from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T10:23:35.572+0000] {processor.py:836} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T10:23:35.583+0000] {logging_mixin.py:150} INFO - [2026-11-02T10:23:35.583+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2026-11-02T10:23:35.604+0000] {logging_mixin.py:150} INFO - [2026-11-02T10:23:35.604+0000] {dag.py:3504} INFO - Setting next_dagrun for example_sla_dag to 2026-11-02T10:20:00+00:00, run_after=2026-11-02T10:22:00+00:00
+[2026-11-02T10:23:35.620+0000] {processor.py:179} INFO - Processing /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py took 0.058 seconds
+[2026-11-02T10:24:19.032+0000] {processor.py:157} INFO - Started process (PID=31073) to work on /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T10:24:19.034+0000] {processor.py:826} INFO - Processing file /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2026-11-02T10:24:19.035+0000] {logging_mixin.py:150} INFO - [2026-11-02T10:24:19.034+0000] {dagbag.py:541} INFO - Filling up the DagBag from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T10:24:19.044+0000] {processor.py:836} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T10:24:19.061+0000] {logging_mixin.py:150} INFO - [2026-11-02T10:24:19.060+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2026-11-02T10:24:19.077+0000] {logging_mixin.py:150} INFO - [2026-11-02T10:24:19.077+0000] {dag.py:3504} INFO - Setting next_dagrun for example_sla_dag to 2026-11-02T10:22:00+00:00, run_after=2026-11-02T10:24:00+00:00
+[2026-11-02T10:24:19.097+0000] {processor.py:179} INFO - Processing /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py took 0.068 seconds
+[2026-11-02T10:25:03.918+0000] {processor.py:157} INFO - Started process (PID=31378) to work on /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T10:25:03.919+0000] {processor.py:826} INFO - Processing file /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2026-11-02T10:25:03.920+0000] {logging_mixin.py:150} INFO - [2026-11-02T10:25:03.920+0000] {dagbag.py:541} INFO - Filling up the DagBag from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T10:25:03.926+0000] {processor.py:836} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T10:25:03.938+0000] {logging_mixin.py:150} INFO - [2026-11-02T10:25:03.938+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2026-11-02T10:25:03.954+0000] {logging_mixin.py:150} INFO - [2026-11-02T10:25:03.954+0000] {dag.py:3504} INFO - Setting next_dagrun for example_sla_dag to 2026-11-02T10:22:00+00:00, run_after=2026-11-02T10:24:00+00:00
+[2026-11-02T10:25:03.970+0000] {processor.py:179} INFO - Processing /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py took 0.054 seconds
+[2026-11-02T10:25:52.998+0000] {processor.py:157} INFO - Started process (PID=31703) to work on /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T10:25:52.999+0000] {processor.py:826} INFO - Processing file /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2026-11-02T10:25:53.000+0000] {logging_mixin.py:150} INFO - [2026-11-02T10:25:53.000+0000] {dagbag.py:541} INFO - Filling up the DagBag from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T10:25:53.008+0000] {processor.py:836} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T10:25:53.024+0000] {logging_mixin.py:150} INFO - [2026-11-02T10:25:53.023+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2026-11-02T10:25:53.040+0000] {logging_mixin.py:150} INFO - [2026-11-02T10:25:53.040+0000] {dag.py:3504} INFO - Setting next_dagrun for example_sla_dag to 2026-11-02T10:22:00+00:00, run_after=2026-11-02T10:24:00+00:00
+[2026-11-02T10:25:53.055+0000] {processor.py:179} INFO - Processing /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py took 0.059 seconds
+[2026-11-02T10:26:35.139+0000] {processor.py:157} INFO - Started process (PID=31987) to work on /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T10:26:35.140+0000] {processor.py:826} INFO - Processing file /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2026-11-02T10:26:35.141+0000] {logging_mixin.py:150} INFO - [2026-11-02T10:26:35.141+0000] {dagbag.py:541} INFO - Filling up the DagBag from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T10:26:35.148+0000] {processor.py:836} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T10:26:35.161+0000] {logging_mixin.py:150} INFO - [2026-11-02T10:26:35.161+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2026-11-02T10:26:35.178+0000] {logging_mixin.py:150} INFO - [2026-11-02T10:26:35.178+0000] {dag.py:3504} INFO - Setting next_dagrun for example_sla_dag to 2026-11-02T10:24:00+00:00, run_after=2026-11-02T10:26:00+00:00
+[2026-11-02T10:26:35.193+0000] {processor.py:179} INFO - Processing /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py took 0.055 seconds
+[2026-11-02T10:27:18.673+0000] {processor.py:157} INFO - Started process (PID=32293) to work on /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T10:27:18.673+0000] {processor.py:826} INFO - Processing file /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2026-11-02T10:27:18.674+0000] {logging_mixin.py:150} INFO - [2026-11-02T10:27:18.674+0000] {dagbag.py:541} INFO - Filling up the DagBag from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T10:27:18.680+0000] {processor.py:836} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T10:27:18.693+0000] {logging_mixin.py:150} INFO - [2026-11-02T10:27:18.693+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2026-11-02T10:27:18.713+0000] {logging_mixin.py:150} INFO - [2026-11-02T10:27:18.713+0000] {dag.py:3504} INFO - Setting next_dagrun for example_sla_dag to 2026-11-02T10:24:00+00:00, run_after=2026-11-02T10:26:00+00:00
+[2026-11-02T10:27:18.728+0000] {processor.py:179} INFO - Processing /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py took 0.058 seconds
+[2026-11-02T10:28:04.653+0000] {processor.py:157} INFO - Started process (PID=32715) to work on /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T10:28:04.653+0000] {processor.py:826} INFO - Processing file /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2026-11-02T10:28:04.654+0000] {logging_mixin.py:150} INFO - [2026-11-02T10:28:04.654+0000] {dagbag.py:541} INFO - Filling up the DagBag from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T10:28:04.661+0000] {processor.py:836} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T10:28:04.673+0000] {logging_mixin.py:150} INFO - [2026-11-02T10:28:04.672+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2026-11-02T10:28:04.691+0000] {logging_mixin.py:150} INFO - [2026-11-02T10:28:04.691+0000] {dag.py:3504} INFO - Setting next_dagrun for example_sla_dag to 2026-11-02T10:26:00+00:00, run_after=2026-11-02T10:28:00+00:00
+[2026-11-02T10:28:04.714+0000] {processor.py:179} INFO - Processing /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py took 0.063 seconds
+[2026-11-02T10:28:41.873+0000] {processor.py:157} INFO - Started process (PID=32955) to work on /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T10:28:41.873+0000] {processor.py:826} INFO - Processing file /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2026-11-02T10:28:41.874+0000] {logging_mixin.py:150} INFO - [2026-11-02T10:28:41.874+0000] {dagbag.py:541} INFO - Filling up the DagBag from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T10:28:41.881+0000] {processor.py:836} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T10:28:41.897+0000] {logging_mixin.py:150} INFO - [2026-11-02T10:28:41.897+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2026-11-02T10:28:41.938+0000] {logging_mixin.py:150} INFO - [2026-11-02T10:28:41.938+0000] {dag.py:3504} INFO - Setting next_dagrun for example_sla_dag to 2026-11-02T10:26:00+00:00, run_after=2026-11-02T10:28:00+00:00
+[2026-11-02T10:28:41.978+0000] {processor.py:179} INFO - Processing /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py took 0.108 seconds
+[2026-11-02T10:29:24.746+0000] {processor.py:157} INFO - Started process (PID=33243) to work on /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T10:29:24.746+0000] {processor.py:826} INFO - Processing file /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2026-11-02T10:29:24.747+0000] {logging_mixin.py:150} INFO - [2026-11-02T10:29:24.747+0000] {dagbag.py:541} INFO - Filling up the DagBag from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T10:29:24.754+0000] {processor.py:836} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T10:29:24.766+0000] {logging_mixin.py:150} INFO - [2026-11-02T10:29:24.766+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2026-11-02T10:29:24.783+0000] {logging_mixin.py:150} INFO - [2026-11-02T10:29:24.782+0000] {dag.py:3504} INFO - Setting next_dagrun for example_sla_dag to 2026-11-02T10:26:00+00:00, run_after=2026-11-02T10:28:00+00:00
+[2026-11-02T10:29:24.803+0000] {processor.py:179} INFO - Processing /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py took 0.060 seconds
+[2026-11-02T10:30:10.964+0000] {processor.py:157} INFO - Started process (PID=33553) to work on /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T10:30:10.964+0000] {processor.py:826} INFO - Processing file /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2026-11-02T10:30:10.965+0000] {logging_mixin.py:150} INFO - [2026-11-02T10:30:10.965+0000] {dagbag.py:541} INFO - Filling up the DagBag from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T10:30:10.972+0000] {processor.py:836} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T10:30:10.983+0000] {logging_mixin.py:150} INFO - [2026-11-02T10:30:10.983+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2026-11-02T10:30:11.002+0000] {logging_mixin.py:150} INFO - [2026-11-02T10:30:11.002+0000] {dag.py:3504} INFO - Setting next_dagrun for example_sla_dag to 2026-11-02T10:28:00+00:00, run_after=2026-11-02T10:30:00+00:00
+[2026-11-02T10:30:11.019+0000] {processor.py:179} INFO - Processing /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py took 0.058 seconds
+[2026-11-02T10:30:51.943+0000] {processor.py:157} INFO - Started process (PID=33821) to work on /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T10:30:51.944+0000] {processor.py:826} INFO - Processing file /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2026-11-02T10:30:51.945+0000] {logging_mixin.py:150} INFO - [2026-11-02T10:30:51.944+0000] {dagbag.py:541} INFO - Filling up the DagBag from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T10:30:51.951+0000] {processor.py:836} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T10:30:51.962+0000] {logging_mixin.py:150} INFO - [2026-11-02T10:30:51.962+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2026-11-02T10:30:51.978+0000] {logging_mixin.py:150} INFO - [2026-11-02T10:30:51.977+0000] {dag.py:3504} INFO - Setting next_dagrun for example_sla_dag to 2026-11-02T10:28:00+00:00, run_after=2026-11-02T10:30:00+00:00
+[2026-11-02T10:30:51.995+0000] {processor.py:179} INFO - Processing /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py took 0.054 seconds
+[2026-11-02T10:31:36.593+0000] {processor.py:157} INFO - Started process (PID=34128) to work on /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T10:31:36.594+0000] {processor.py:826} INFO - Processing file /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2026-11-02T10:31:36.595+0000] {logging_mixin.py:150} INFO - [2026-11-02T10:31:36.594+0000] {dagbag.py:541} INFO - Filling up the DagBag from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T10:31:36.604+0000] {processor.py:836} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T10:31:36.615+0000] {logging_mixin.py:150} INFO - [2026-11-02T10:31:36.615+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2026-11-02T10:31:36.631+0000] {logging_mixin.py:150} INFO - [2026-11-02T10:31:36.631+0000] {dag.py:3504} INFO - Setting next_dagrun for example_sla_dag to 2026-11-02T10:28:00+00:00, run_after=2026-11-02T10:30:00+00:00
+[2026-11-02T10:31:36.645+0000] {processor.py:179} INFO - Processing /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py took 0.055 seconds
+[2026-11-02T10:32:22.857+0000] {processor.py:157} INFO - Started process (PID=34427) to work on /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T10:32:22.858+0000] {processor.py:826} INFO - Processing file /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2026-11-02T10:32:22.858+0000] {logging_mixin.py:150} INFO - [2026-11-02T10:32:22.858+0000] {dagbag.py:541} INFO - Filling up the DagBag from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T10:32:22.865+0000] {processor.py:836} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T10:32:22.876+0000] {logging_mixin.py:150} INFO - [2026-11-02T10:32:22.876+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2026-11-02T10:32:22.896+0000] {logging_mixin.py:150} INFO - [2026-11-02T10:32:22.896+0000] {dag.py:3504} INFO - Setting next_dagrun for example_sla_dag to 2026-11-02T10:30:00+00:00, run_after=2026-11-02T10:32:00+00:00
+[2026-11-02T10:32:22.913+0000] {processor.py:179} INFO - Processing /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py took 0.058 seconds
+[2026-11-02T10:33:12.281+0000] {processor.py:157} INFO - Started process (PID=34825) to work on /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T10:33:12.282+0000] {processor.py:826} INFO - Processing file /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2026-11-02T10:33:12.282+0000] {logging_mixin.py:150} INFO - [2026-11-02T10:33:12.282+0000] {dagbag.py:541} INFO - Filling up the DagBag from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T10:33:12.291+0000] {processor.py:836} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T10:33:12.307+0000] {logging_mixin.py:150} INFO - [2026-11-02T10:33:12.307+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2026-11-02T10:33:12.323+0000] {logging_mixin.py:150} INFO - [2026-11-02T10:33:12.322+0000] {dag.py:3504} INFO - Setting next_dagrun for example_sla_dag to 2026-11-02T10:30:00+00:00, run_after=2026-11-02T10:32:00+00:00
+[2026-11-02T10:33:12.338+0000] {processor.py:179} INFO - Processing /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py took 0.059 seconds
+[2026-11-02T10:33:56.553+0000] {processor.py:157} INFO - Started process (PID=35126) to work on /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T10:33:56.554+0000] {processor.py:826} INFO - Processing file /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2026-11-02T10:33:56.555+0000] {logging_mixin.py:150} INFO - [2026-11-02T10:33:56.555+0000] {dagbag.py:541} INFO - Filling up the DagBag from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T10:33:56.565+0000] {processor.py:836} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T10:33:56.582+0000] {logging_mixin.py:150} INFO - [2026-11-02T10:33:56.582+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2026-11-02T10:33:56.611+0000] {logging_mixin.py:150} INFO - [2026-11-02T10:33:56.611+0000] {dag.py:3504} INFO - Setting next_dagrun for example_sla_dag to 2026-11-02T10:30:00+00:00, run_after=2026-11-02T10:32:00+00:00
+[2026-11-02T10:33:56.631+0000] {processor.py:179} INFO - Processing /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py took 0.082 seconds
+[2026-11-02T10:34:47.303+0000] {processor.py:157} INFO - Started process (PID=35686) to work on /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T10:34:47.304+0000] {processor.py:826} INFO - Processing file /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2026-11-02T10:34:47.305+0000] {logging_mixin.py:150} INFO - [2026-11-02T10:34:47.304+0000] {dagbag.py:541} INFO - Filling up the DagBag from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T10:34:47.314+0000] {processor.py:836} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T10:34:47.337+0000] {logging_mixin.py:150} INFO - [2026-11-02T10:34:47.337+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2026-11-02T10:34:47.366+0000] {logging_mixin.py:150} INFO - [2026-11-02T10:34:47.365+0000] {dag.py:3504} INFO - Setting next_dagrun for example_sla_dag to 2026-11-02T10:32:00+00:00, run_after=2026-11-02T10:34:00+00:00
+[2026-11-02T10:34:47.384+0000] {processor.py:179} INFO - Processing /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py took 0.084 seconds
+[2026-11-02T10:35:35.408+0000] {processor.py:157} INFO - Started process (PID=36180) to work on /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T10:35:35.409+0000] {processor.py:826} INFO - Processing file /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2026-11-02T10:35:35.410+0000] {logging_mixin.py:150} INFO - [2026-11-02T10:35:35.410+0000] {dagbag.py:541} INFO - Filling up the DagBag from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T10:35:35.418+0000] {processor.py:836} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T10:35:35.431+0000] {logging_mixin.py:150} INFO - [2026-11-02T10:35:35.431+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2026-11-02T10:35:35.448+0000] {logging_mixin.py:150} INFO - [2026-11-02T10:35:35.448+0000] {dag.py:3504} INFO - Setting next_dagrun for example_sla_dag to 2026-11-02T10:32:00+00:00, run_after=2026-11-02T10:34:00+00:00
+[2026-11-02T10:35:35.464+0000] {processor.py:179} INFO - Processing /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py took 0.059 seconds
+[2026-11-02T10:36:19.832+0000] {processor.py:157} INFO - Started process (PID=36474) to work on /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T10:36:19.833+0000] {processor.py:826} INFO - Processing file /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2026-11-02T10:36:19.834+0000] {logging_mixin.py:150} INFO - [2026-11-02T10:36:19.833+0000] {dagbag.py:541} INFO - Filling up the DagBag from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T10:36:19.840+0000] {processor.py:836} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T10:36:19.853+0000] {logging_mixin.py:150} INFO - [2026-11-02T10:36:19.853+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2026-11-02T10:36:19.869+0000] {logging_mixin.py:150} INFO - [2026-11-02T10:36:19.869+0000] {dag.py:3504} INFO - Setting next_dagrun for example_sla_dag to 2026-11-02T10:34:00+00:00, run_after=2026-11-02T10:36:00+00:00
+[2026-11-02T10:36:19.885+0000] {processor.py:179} INFO - Processing /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py took 0.056 seconds
+[2026-11-02T10:37:03.834+0000] {processor.py:157} INFO - Started process (PID=36800) to work on /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T10:37:03.835+0000] {processor.py:826} INFO - Processing file /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2026-11-02T10:37:03.836+0000] {logging_mixin.py:150} INFO - [2026-11-02T10:37:03.836+0000] {dagbag.py:541} INFO - Filling up the DagBag from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T10:37:03.844+0000] {processor.py:836} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T10:37:03.856+0000] {logging_mixin.py:150} INFO - [2026-11-02T10:37:03.856+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2026-11-02T10:37:03.872+0000] {logging_mixin.py:150} INFO - [2026-11-02T10:37:03.872+0000] {dag.py:3504} INFO - Setting next_dagrun for example_sla_dag to 2026-11-02T10:34:00+00:00, run_after=2026-11-02T10:36:00+00:00
+[2026-11-02T10:37:03.891+0000] {processor.py:179} INFO - Processing /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py took 0.060 seconds
+[2026-11-02T10:37:52.210+0000] {processor.py:157} INFO - Started process (PID=37308) to work on /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T10:37:52.210+0000] {processor.py:826} INFO - Processing file /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2026-11-02T10:37:52.211+0000] {logging_mixin.py:150} INFO - [2026-11-02T10:37:52.211+0000] {dagbag.py:541} INFO - Filling up the DagBag from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T10:37:52.218+0000] {processor.py:836} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T10:37:52.231+0000] {logging_mixin.py:150} INFO - [2026-11-02T10:37:52.231+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2026-11-02T10:37:52.247+0000] {logging_mixin.py:150} INFO - [2026-11-02T10:37:52.247+0000] {dag.py:3504} INFO - Setting next_dagrun for example_sla_dag to 2026-11-02T10:34:00+00:00, run_after=2026-11-02T10:36:00+00:00
+[2026-11-02T10:37:52.264+0000] {processor.py:179} INFO - Processing /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py took 0.057 seconds
+[2026-11-02T10:38:36.330+0000] {processor.py:157} INFO - Started process (PID=37820) to work on /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T10:38:36.331+0000] {processor.py:826} INFO - Processing file /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2026-11-02T10:38:36.332+0000] {logging_mixin.py:150} INFO - [2026-11-02T10:38:36.332+0000] {dagbag.py:541} INFO - Filling up the DagBag from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T10:38:36.338+0000] {processor.py:836} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T10:38:36.351+0000] {logging_mixin.py:150} INFO - [2026-11-02T10:38:36.351+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2026-11-02T10:38:36.368+0000] {logging_mixin.py:150} INFO - [2026-11-02T10:38:36.368+0000] {dag.py:3504} INFO - Setting next_dagrun for example_sla_dag to 2026-11-02T10:36:00+00:00, run_after=2026-11-02T10:38:00+00:00
+[2026-11-02T10:38:36.385+0000] {processor.py:179} INFO - Processing /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py took 0.057 seconds
+[2026-11-02T10:39:16.451+0000] {processor.py:157} INFO - Started process (PID=38298) to work on /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T10:39:16.451+0000] {processor.py:826} INFO - Processing file /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2026-11-02T10:39:16.452+0000] {logging_mixin.py:150} INFO - [2026-11-02T10:39:16.452+0000] {dagbag.py:541} INFO - Filling up the DagBag from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T10:39:16.459+0000] {processor.py:836} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T10:39:16.471+0000] {logging_mixin.py:150} INFO - [2026-11-02T10:39:16.470+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2026-11-02T10:39:16.488+0000] {logging_mixin.py:150} INFO - [2026-11-02T10:39:16.488+0000] {dag.py:3504} INFO - Setting next_dagrun for example_sla_dag to 2026-11-02T10:36:00+00:00, run_after=2026-11-02T10:38:00+00:00
+[2026-11-02T10:39:16.510+0000] {processor.py:179} INFO - Processing /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py took 0.062 seconds
+[2026-11-02T10:39:52.477+0000] {processor.py:157} INFO - Started process (PID=38574) to work on /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T10:39:52.478+0000] {processor.py:826} INFO - Processing file /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2026-11-02T10:39:52.479+0000] {logging_mixin.py:150} INFO - [2026-11-02T10:39:52.478+0000] {dagbag.py:541} INFO - Filling up the DagBag from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T10:39:52.488+0000] {processor.py:836} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T10:39:52.504+0000] {logging_mixin.py:150} INFO - [2026-11-02T10:39:52.503+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2026-11-02T10:39:52.520+0000] {logging_mixin.py:150} INFO - [2026-11-02T10:39:52.520+0000] {dag.py:3504} INFO - Setting next_dagrun for example_sla_dag to 2026-11-02T10:36:00+00:00, run_after=2026-11-02T10:38:00+00:00
+[2026-11-02T10:39:52.535+0000] {processor.py:179} INFO - Processing /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py took 0.063 seconds
+[2026-11-02T10:40:37.553+0000] {processor.py:157} INFO - Started process (PID=38979) to work on /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T10:40:37.554+0000] {processor.py:826} INFO - Processing file /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2026-11-02T10:40:37.555+0000] {logging_mixin.py:150} INFO - [2026-11-02T10:40:37.554+0000] {dagbag.py:541} INFO - Filling up the DagBag from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T10:40:37.562+0000] {processor.py:836} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T10:40:37.577+0000] {logging_mixin.py:150} INFO - [2026-11-02T10:40:37.577+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2026-11-02T10:40:37.601+0000] {logging_mixin.py:150} INFO - [2026-11-02T10:40:37.600+0000] {dag.py:3504} INFO - Setting next_dagrun for example_sla_dag to 2026-11-02T10:38:00+00:00, run_after=2026-11-02T10:40:00+00:00
+[2026-11-02T10:40:37.619+0000] {processor.py:179} INFO - Processing /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py took 0.069 seconds
+[2026-11-02T10:41:21.048+0000] {processor.py:157} INFO - Started process (PID=39317) to work on /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T10:41:21.049+0000] {processor.py:826} INFO - Processing file /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2026-11-02T10:41:21.050+0000] {logging_mixin.py:150} INFO - [2026-11-02T10:41:21.049+0000] {dagbag.py:541} INFO - Filling up the DagBag from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T10:41:21.056+0000] {processor.py:836} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T10:41:21.068+0000] {logging_mixin.py:150} INFO - [2026-11-02T10:41:21.068+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2026-11-02T10:41:21.084+0000] {logging_mixin.py:150} INFO - [2026-11-02T10:41:21.084+0000] {dag.py:3504} INFO - Setting next_dagrun for example_sla_dag to 2026-11-02T10:38:00+00:00, run_after=2026-11-02T10:40:00+00:00
+[2026-11-02T10:41:21.106+0000] {processor.py:179} INFO - Processing /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py took 0.060 seconds
+[2026-11-02T10:42:05.787+0000] {processor.py:157} INFO - Started process (PID=39655) to work on /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T10:42:05.788+0000] {processor.py:826} INFO - Processing file /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2026-11-02T10:42:05.789+0000] {logging_mixin.py:150} INFO - [2026-11-02T10:42:05.789+0000] {dagbag.py:541} INFO - Filling up the DagBag from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T10:42:05.798+0000] {processor.py:836} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T10:42:05.813+0000] {logging_mixin.py:150} INFO - [2026-11-02T10:42:05.812+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2026-11-02T10:42:05.830+0000] {logging_mixin.py:150} INFO - [2026-11-02T10:42:05.830+0000] {dag.py:3504} INFO - Setting next_dagrun for example_sla_dag to 2026-11-02T10:40:00+00:00, run_after=2026-11-02T10:42:00+00:00
+[2026-11-02T10:42:05.851+0000] {processor.py:179} INFO - Processing /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py took 0.067 seconds
+[2026-11-02T10:42:48.064+0000] {processor.py:157} INFO - Started process (PID=39964) to work on /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T10:42:48.065+0000] {processor.py:826} INFO - Processing file /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2026-11-02T10:42:48.065+0000] {logging_mixin.py:150} INFO - [2026-11-02T10:42:48.065+0000] {dagbag.py:541} INFO - Filling up the DagBag from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T10:42:48.072+0000] {processor.py:836} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T10:42:48.085+0000] {logging_mixin.py:150} INFO - [2026-11-02T10:42:48.085+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2026-11-02T10:42:48.109+0000] {logging_mixin.py:150} INFO - [2026-11-02T10:42:48.109+0000] {dag.py:3504} INFO - Setting next_dagrun for example_sla_dag to 2026-11-02T10:40:00+00:00, run_after=2026-11-02T10:42:00+00:00
+[2026-11-02T10:42:48.124+0000] {processor.py:179} INFO - Processing /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py took 0.063 seconds
+[2026-11-02T10:43:31.763+0000] {processor.py:157} INFO - Started process (PID=40358) to work on /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T10:43:31.764+0000] {processor.py:826} INFO - Processing file /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2026-11-02T10:43:31.765+0000] {logging_mixin.py:150} INFO - [2026-11-02T10:43:31.764+0000] {dagbag.py:541} INFO - Filling up the DagBag from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T10:43:31.771+0000] {processor.py:836} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2026-11-02T10:43:31.784+0000] {logging_mixin.py:150} INFO - [2026-11-02T10:43:31.784+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2026-11-02T10:43:31.806+0000] {logging_mixin.py:150} INFO - [2026-11-02T10:43:31.806+0000] {dag.py:3504} INFO - Setting next_dagrun for example_sla_dag to 2026-11-02T10:40:00+00:00, run_after=2026-11-02T10:42:00+00:00
+[2026-11-02T10:43:31.822+0000] {processor.py:179} INFO - Processing /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py took 0.061 seconds

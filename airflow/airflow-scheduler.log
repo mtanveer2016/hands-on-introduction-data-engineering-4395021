@@ -1,0 +1,140 @@
+2026-11-02 09:36:03,531 INFO - Starting the scheduler
+2026-11-02 09:36:03,534 INFO - Processing each file at most -1 times
+2026-11-02 09:36:03,552 INFO - Launched DagFileProcessorManager with pid: 10032
+2026-11-02 09:36:03,554 INFO - Resetting orphaned tasks for active dag runs
+2026-11-02 09:36:03,562 INFO - Configured default timezone Timezone('UTC')
+2026-11-02 09:36:12,195 WARNING - The Authorization header is missing: Accept: text/html, application/xhtml+xml, application/xml; q=0.9, image/avif, image/webp, image/apng, */*; q=0.8, application/signed-exchange; v=b3; q=0.7
+Host: localhost:8793
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36 Edg/156.0.0.0
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en-US, en; q=0.9
+Cache-Control: max-age=0
+Referer: https://github.com/
+X-Request-Id: 3f9e9fa88903ae4819a03e3c5f0bc891
+X-Real-Ip: 10.241.0.36
+X-Forwarded-Port: 443
+X-Forwarded-Scheme: https
+X-Original-Uri: /
+X-Scheme: https
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Dest: document
+Sec-Ch-Ua: "Not:A-Brand";v="8", "Chromium";v="156", "Microsoft Edge";v="156"
+Sec-Ch-Ua-Mobile: ?0
+Sec-Ch-Ua-Platform: "Windows"
+Priority: u=0, i
+X-Forwarded-Proto: https
+X-Forwarded-Host: studious-succotash-qvv7gj4wr65c95v5-8793.app.github.dev
+X-Forwarded-For: 84.211.61.125
+Proxy-Connection: Keep-Alive
+
+.
+2026-11-02 09:36:12,199 WARNING - Unknown error
+Traceback (most recent call last):
+  File "/home/vscode/.local/lib/python3.10/site-packages/airflow/utils/serve_logs.py", line 61, in validate_pre_signed_url
+    abort(403)
+  File "/home/vscode/.local/lib/python3.10/site-packages/flask/helpers.py", line 310, in abort
+    current_app.aborter(code, *args, **kwargs)
+  File "/home/vscode/.local/lib/python3.10/site-packages/werkzeug/exceptions.py", line 864, in __call__
+    raise self.mapping[code](*args, **kwargs)
+werkzeug.exceptions.Forbidden: 403 Forbidden: You don't have the permission to access the requested resource. It is either read-protected or not readable by the server.
+2026-11-02 09:36:12,475 WARNING - The Authorization header is missing: Accept: image/avif, image/webp, image/apng, image/svg+xml, image/*, */*; q=0.8
+Host: localhost:8793
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36 Edg/156.0.0.0
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en-US, en; q=0.9
+Referer: https://studious-succotash-qvv7gj4wr65c95v5-8793.app.github.dev/
+X-Request-Id: 979b3bba6818cb1c717c07a7ac21288f
+X-Real-Ip: 10.241.0.36
+X-Forwarded-Port: 443
+X-Forwarded-Scheme: https
+X-Original-Uri: /favicon.ico
+X-Scheme: https
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua: "Not:A-Brand";v="8", "Chromium";v="156", "Microsoft Edge";v="156"
+Sec-Ch-Ua-Mobile: ?0
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Priority: u=1, i
+X-Forwarded-Proto: https
+X-Forwarded-Host: studious-succotash-qvv7gj4wr65c95v5-8793.app.github.dev
+X-Forwarded-For: 84.211.61.125
+Proxy-Connection: Keep-Alive
+
+.
+2026-11-02 09:36:12,475 WARNING - Unknown error
+Traceback (most recent call last):
+  File "/home/vscode/.local/lib/python3.10/site-packages/airflow/utils/serve_logs.py", line 61, in validate_pre_signed_url
+    abort(403)
+  File "/home/vscode/.local/lib/python3.10/site-packages/flask/helpers.py", line 310, in abort
+    current_app.aborter(code, *args, **kwargs)
+  File "/home/vscode/.local/lib/python3.10/site-packages/werkzeug/exceptions.py", line 864, in __call__
+    raise self.mapping[code](*args, **kwargs)
+werkzeug.exceptions.Forbidden: 403 Forbidden: You don't have the permission to access the requested resource. It is either read-protected or not readable by the server.
+2026-11-02 09:41:03,763 INFO - Resetting orphaned tasks for active dag runs
+2026-11-02 09:46:03,919 INFO - Resetting orphaned tasks for active dag runs
+2026-11-02 09:51:03,962 INFO - Resetting orphaned tasks for active dag runs
+2026-11-02 09:56:04,118 INFO - Resetting orphaned tasks for active dag runs
+2026-11-02 10:01:04,216 INFO - Resetting orphaned tasks for active dag runs
+2026-11-02 10:06:04,370 INFO - Resetting orphaned tasks for active dag runs
+2026-11-02 10:11:04,532 INFO - Resetting orphaned tasks for active dag runs
+2026-11-02 10:16:04,617 INFO - Resetting orphaned tasks for active dag runs
+2026-11-02 10:21:04,778 INFO - Resetting orphaned tasks for active dag runs
+2026-11-02 10:26:04,941 INFO - Resetting orphaned tasks for active dag runs
+2026-11-02 10:31:05,093 INFO - Resetting orphaned tasks for active dag runs
+2026-11-02 10:33:56,478 WARNING - The Authorization header is missing: Accept: image/avif, image/webp, image/apng, image/svg+xml, image/*, */*; q=0.8
+Host: localhost:8793
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36 Edg/156.0.0.0
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en-US, en; q=0.9
+Referer: https://studious-succotash-qvv7gj4wr65c95v5-8793.app.github.dev/
+X-Request-Id: 6f0ec9cc9db345a41030cf0c534c0046
+X-Real-Ip: 10.241.0.36
+X-Forwarded-Port: 443
+X-Forwarded-Scheme: https
+X-Original-Uri: /favicon.ico
+X-Scheme: https
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua: "Not:A-Brand";v="8", "Chromium";v="156", "Microsoft Edge";v="156"
+Sec-Ch-Ua-Mobile: ?0
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Priority: u=1, i
+X-Forwarded-Proto: https
+X-Forwarded-Host: studious-succotash-qvv7gj4wr65c95v5-8793.app.github.dev
+X-Forwarded-For: 84.211.61.125
+Proxy-Connection: Keep-Alive
+
+.
+2026-11-02 10:33:56,481 WARNING - Unknown error
+Traceback (most recent call last):
+  File "/home/vscode/.local/lib/python3.10/site-packages/airflow/utils/serve_logs.py", line 61, in validate_pre_signed_url
+    abort(403)
+  File "/home/vscode/.local/lib/python3.10/site-packages/flask/helpers.py", line 310, in abort
+    current_app.aborter(code, *args, **kwargs)
+  File "/home/vscode/.local/lib/python3.10/site-packages/werkzeug/exceptions.py", line 864, in __call__
+    raise self.mapping[code](*args, **kwargs)
+werkzeug.exceptions.Forbidden: 403 Forbidden: You don't have the permission to access the requested resource. It is either read-protected or not readable by the server.
+2026-11-02 10:36:05,169 INFO - Resetting orphaned tasks for active dag runs
+2026-11-02 10:41:05,334 INFO - Resetting orphaned tasks for active dag runs
+2026-11-02 10:44:14,424 INFO - Exiting gracefully upon receiving signal 15
+2026-11-02 10:44:15,432 INFO - Sending Signals.SIGTERM to group 10032. PIDs of all processes in the group: [10032]
+2026-11-02 10:44:15,437 INFO - Sending the signal Signals.SIGTERM to group 10032
+2026-11-02 10:44:15,902 INFO - Process psutil.Process(pid=10032, status='terminated', exitcode=0, started='09:36:02') (10032) terminated with exit code 0
+2026-11-02 10:44:15,907 INFO - Sending Signals.SIGTERM to group 10032. PIDs of all processes in the group: []
+2026-11-02 10:44:15,909 INFO - Sending the signal Signals.SIGTERM to group 10032
+2026-11-02 10:44:15,909 INFO - Sending the signal Signals.SIGTERM to process 10032 as process group is missing.
+2026-11-02 10:44:15,911 INFO - Exited execute loop
+2026-11-02 10:44:30,898 INFO - Starting the scheduler
+2026-11-02 10:44:30,898 INFO - Processing each file at most -1 times
+2026-11-02 10:44:30,909 INFO - Launched DagFileProcessorManager with pid: 41182
+2026-11-02 10:44:30,916 INFO - Resetting orphaned tasks for active dag runs
+2026-11-02 10:44:30,924 INFO - Configured default timezone Timezone('UTC')
+2026-11-02 10:49:31,031 INFO - Resetting orphaned tasks for active dag runs
+2026-11-02 10:54:31,076 INFO - Resetting orphaned tasks for active dag runs
+2026-11-02 10:59:31,122 INFO - Resetting orphaned tasks for active dag runs
+2026-11-02 11:04:31,163 INFO - Resetting orphaned tasks for active dag runs
+2026-11-02 11:09:31,208 INFO - Resetting orphaned tasks for active dag runs
+2026-11-02 11:14:31,249 INFO - Resetting orphaned tasks for active dag runs

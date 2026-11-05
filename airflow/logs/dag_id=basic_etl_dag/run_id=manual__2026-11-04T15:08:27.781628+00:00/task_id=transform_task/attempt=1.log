@@ -1,0 +1,18 @@
+[2026-11-04T15:08:36.717+0000] {taskinstance.py:1103} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: basic_etl_dag.transform_task manual__2026-11-04T15:08:27.781628+00:00 [queued]>
+[2026-11-04T15:08:36.721+0000] {taskinstance.py:1103} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: basic_etl_dag.transform_task manual__2026-11-04T15:08:27.781628+00:00 [queued]>
+[2026-11-04T15:08:36.721+0000] {taskinstance.py:1308} INFO - Starting attempt 1 of 1
+[2026-11-04T15:08:36.732+0000] {taskinstance.py:1327} INFO - Executing <Task(PythonOperator): transform_task> on 2026-11-04 15:08:27.781628+00:00
+[2026-11-04T15:08:36.736+0000] {standard_task_runner.py:57} INFO - Started process 71830 to run task
+[2026-11-04T15:08:36.739+0000] {standard_task_runner.py:84} INFO - Running: ['airflow', 'tasks', 'run', 'basic_etl_dag', 'transform_task', 'manual__2026-11-04T15:08:27.781628+00:00', '--job-id', '21', '--raw', '--subdir', 'DAGS_FOLDER/basic_etl_dag.py', '--cfg-path', '/tmp/tmp3we5i2np']
+[2026-11-04T15:08:36.739+0000] {standard_task_runner.py:85} INFO - Job 21: Subtask transform_task
+[2026-11-04T15:08:36.777+0000] {task_command.py:410} INFO - Running <TaskInstance: basic_etl_dag.transform_task manual__2026-11-04T15:08:27.781628+00:00 [running]> on host codespaces-742126
+[2026-11-04T15:08:36.820+0000] {taskinstance.py:1545} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='airflow' AIRFLOW_CTX_DAG_ID='basic_etl_dag' AIRFLOW_CTX_TASK_ID='transform_task' AIRFLOW_CTX_EXECUTION_DATE='2026-11-04T15:08:27.781628+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2026-11-04T15:08:27.781628+00:00'
+[2026-11-04T15:08:36.876+0000] {logging_mixin.py:150} WARNING - /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/basic_etl_dag.py:29 SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+[2026-11-04T15:08:36.942+0000] {python.py:183} INFO - Done. Returned value was: None
+[2026-11-04T15:08:36.947+0000] {taskinstance.py:1345} INFO - Marking task as SUCCESS. dag_id=basic_etl_dag, task_id=transform_task, execution_date=20261104T150827, start_date=20261104T150836, end_date=20261104T150836
+[2026-11-04T15:08:36.998+0000] {local_task_job_runner.py:225} INFO - Task exited with return code 0
+[2026-11-04T15:08:37.012+0000] {taskinstance.py:2653} INFO - 1 downstream tasks scheduled from follow-on schedule check
